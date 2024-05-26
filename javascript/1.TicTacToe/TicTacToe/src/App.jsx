@@ -44,16 +44,6 @@ function App() {
   }
 
   useEffect(() => {
-    if (tile_values.filter(x => x != FILLER).length >= 9) {
-      requestAnimationFrame(() => {
-        // Ensure it runs after the entire DOM is loaded
-        setTimeout(() => {
-          setTurn("X")
-          alert(`Game Over.!!!`)
-          setTile_values(Array(9).fill(FILLER))
-        }, 0);
-      });
-    }
 
     requestAnimationFrame(() => {
       setTimeout(() => {
