@@ -4,4 +4,4 @@ A hundred projects easy to hard, straightforward to complex in Python and JavaSc
 1. Capitals Quiz Game: [Demo](python/1.%20Capitals%20Quiz/demo.gif)
 
 ## JavaScript
-1. Tic Tac Toe [Code](https://github.com/stephenmarri/100-Projects/tree/main/javascript/1.TicTacToe) | [Live Link - Vercel](https://100projects-01-tictactoe-git-main-stephenmarris-projects.vercel.app/) | [[Demo]]
+1. Tic Tac Toe [Code](https://github.com/stephenmarri/100-Projects/tree/main/javascript/1.TicTacToe) | [Live Link - Vercel](https://100projects-01-tictactoe-git-main-stephenmarris-projects.vercel.app/) | [Demo](javascript/1.TicTacToe/TicTacToe/public/demo.gif)
