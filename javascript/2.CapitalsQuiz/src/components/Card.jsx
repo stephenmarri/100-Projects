@@ -33,7 +33,7 @@ const Card = ({question, getNewQuestion}) => {
         <div id="question" className='fr text-center text-3xl'><span className='px-2 sm:px-5'>What is the capital city of&#160;<span className='font-semibold font-serif text-cyan-500'>{question.country}</span>?</span></div>
         <div id="input_container" className='fr'>
             <input type="text" required className='w-1/2 h-12 ps-3' name="input_box" id="input_box" placeholder='Enter your answer...'/>
-            <button type='submit' className={`w-1/4 h-12 bg-${bt == "Check" ? 'blue' : 'green'}-400 font-bold`} id='btn_check' onClick={(e)=>checkQues(e)}>{bt}</button>
+            <button type='submit' className={`w-1/4 h-12 ${bt == "Check" ? 'bg-blue-400' : 'bg-green-400'} font-bold`} id='btn_check' onClick={(e)=>checkQues(e)}>{bt}</button>
         </div>
         <div id="info" className='fr font-bold bg-gray-300'>
             <div id="answer_status" className='fr font-bold border-r-2'>{status}</div>
