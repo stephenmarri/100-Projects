@@ -1,1 +1,0 @@
-![Demo](/javascript/1.TicTacToe/TicTacToe/public/demo.gif)
