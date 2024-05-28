@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-size: 14px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+
+    #root{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        #wrapper{
+            background-color: #eee;
+
+            #main_card{
+                height: 100%;
+                width: 100%;
+
+                #score{
+                    height: 5%;
+                    width: 100%;
+                }
+
+                #question{
+                    width: 100%;
+                    height: 50%;
+                    line-height: calc(height);
+                }
+
+                #input_container{
+                    width: 100%;
+                    height: 30%;
+
+                    input{
+                     
+                    }
+
+                    button{
+                   
+                    }
+                }
+
+                #info{
+                    width: 100%;
+                    height: 20%;
+
+                    #answer_status{
+                        height: 100%;
+                        width: 30%;
+                    }
+
+                    #answer_text{
+                        height: 100%;
+                        width: 70%;
+                        text-wrap: wrap;
+                    }
+                }
+            }
+            
+        }
+    }
+
+}
+
+.fr{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.fc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
