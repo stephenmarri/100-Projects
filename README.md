@@ -5,3 +5,4 @@ A hundred projects easy to hard, straightforward to complex in Python and JavaSc
 
 ## JavaScript
 1. Tic Tac Toe [Code](https://github.com/stephenmarri/100-Projects/tree/main/javascript/1.TicTacToe) | [Live Link - Vercel](https://100projects-01-tictactoe-git-main-stephenmarris-projects.vercel.app/) | [Demo](javascript/1.TicTacToe/TicTacToe/public/demo.gif)
+2. Countries [Code](https://github.com/stephenmarri/100-Projects/tree/main/javascript/2.CapitalsQuiz) | [Live Link - Vercel](https://100projects-02-countriesquiz.vercel.app/) | [Demo](javascript/1.TicTacToe/TicTacToe/public/demo.gif)
