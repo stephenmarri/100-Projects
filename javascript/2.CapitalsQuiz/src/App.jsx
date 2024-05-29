@@ -17,10 +17,9 @@ const App = () => {
   }
   const [question, setQuestion] = useState(objQuestion);
   const getAllQuestions = async () =>{
-    console.log("starteed")
-    //  setallQuestions(await getAllCountries())
+    // const api_data = await getAllCountries()
+    // setallQuestions(api_data)
     getNewQuestion();
-    console.log(allQuestions)
   }
  
   useEffect(() => {
@@ -51,10 +50,11 @@ const App = () => {
 
 }
 
-const getAllCountries = async () => {
+async function getAllCountries() {
+  console.log('Fetching data from API')
   const req = await fetch('https://restcountries.com/v3.1/all/?fields=name,capital')
   const data = await req.json()
-  console.log(data)
+  console.log('Data fetched successfulley',data)
   return data
 }
 
