@@ -13,7 +13,7 @@ const App = () => {
     country: '',
     capital: '',
     score:0,
-    total:-1
+    total:0
   }
   const [question, setQuestion] = useState(objQuestion);
   const getAllQuestions = async () =>{
@@ -31,11 +31,15 @@ const App = () => {
     const randInt = Math.floor(Math.random()*allQuestions.length)
     const newQuestion = allQuestions[randInt]
     const newObj = {...objQuestion}
-    newObj.country = newQuestion["name"]["common"]
-    newObj.capital = newQuestion["capital"][0]
+    newObj.country = removeAccent(newQuestion["name"]["common"])
+    newObj.capital = removeAccent(newQuestion["capital"][0])
     newObj.score = question.score 
-    newObj.total = question.total + 1
+    newObj.total = question.total 
     setQuestion(newObj)
+  }
+
+  function removeAccent(st){
+    return st.normalize("NFD").replace(/\p{Diacritic}/gu, "")
   }
 
   return (
