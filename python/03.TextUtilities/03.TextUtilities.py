@@ -9,10 +9,10 @@ import pyperclip
 def md_to_html():
     print_called_function_name()
     while True:
-        print("Enter a MarkDown link or N to break:\n")
+        print("Enter a MarkDown link or N to exit and Ctrl+Z to end input :\n")
         user_input = sys.stdin.read()
         os.system('cls')
-        if user_input in ['n', "N"]:
+        if user_input.strip() in ['n', "N"]:
             return
         if not user_input:
             print("No Input given")
@@ -54,8 +54,31 @@ def find_md_name_link(arg_input: str) -> list:
     return [md_name, md_link]
 
 
-def capitalize(arg_input: str) -> str:
-    pass
+def capitalize(operation, o_type="Capitalize"):
+    print_called_function_name()
+    while True:
+        print("Enter the input string or N to exit and Ctrl+Z to end input: \n")
+        user_input = sys.stdin.read()
+        os.system('cls')
+        if user_input.strip().lower() in ['n']:
+            return
+        if not user_input:
+            print("No input given")
+        else:
+            result = ""
+            if o_type.strip().lower() == "capitalize":
+                is_first_char = True
+                for word in user_input:
+                    result += operation(word) if is_first_char else word
+                    if word == " ":
+                        is_first_char = True
+                    else:
+                        is_first_char = False
+            else:
+                for word in user_input:
+                    result += operation(word)
+            print(result)
+            pyperclip.copy(result)
 
 
 def print_called_function_name():
@@ -68,10 +91,10 @@ def print_called_function_name():
     print("Caller function name:", caller_function_name)
 
 
-def check_if_input_valid(input_str:str) -> bool:
+def check_if_input_valid(input_str: str) -> bool:
     if not input_str or not input_str.isdigit():
         return False
-    if not int(input_str) in [1, 2]:
+    if not int(input_str) in range(1, 5):
         return False
     return True
 
@@ -81,12 +104,16 @@ def main():
     print('Welcome to text utiltiies!')
     while not check_if_input_valid(str_input):
         os.system('cls')
-        str_input = input("\n1.Md links\n2.Capitalize\nSelection function:")
+        str_input = input("\n1.Md links\n2.Capitalize\n3.Upper Case\n4.Lower Case\nSelection function:")
 
     if int(str_input) == 1:
         print(md_to_html())
     if int(str_input) == 2:
-        print(md_to_html())
+        print(capitalize(lambda x: x.upper()))
+    if int(str_input) == 3:
+        print(capitalize(lambda x: x.upper(), "Upper"))
+    if int(str_input) == 4:
+        print(capitalize(lambda x: x.lower(), "Lower"))
 
 
 if __name__ == "__main__":
