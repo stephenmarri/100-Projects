@@ -9,7 +9,6 @@ start_time = time.time()
 
 
 def display_text(stdscr, loaded_text: str, typed_text: list, max_rows):
-    global dict_sttus
     dict_sttus = {
         'int_mistakes': 0,
         'str_time': '',
