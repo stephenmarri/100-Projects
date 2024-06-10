@@ -1,52 +1,13 @@
-import re
+import selenium
+from selenium import webdriver
 
-text_to_search = '''
-abcdefghijklmnopqurtuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-1234567890
+driver = webdriver.Chrome()
+url_wiki = 'https://en.wikipedia.org/wiki/Selenium'
+url_tech = "https://www.techwithtim.net/"
+driver.get(url_wiki)
 
-Ha HaHa
+#Finding elements
+f_id_one = driver.find_element(By.ID, 'loginForm')
 
-MetaCharacters (Need to be escaped):
-. ^ $ * + ? { } [ ] \\ | ( )
 
-coreyms.com
-
-321-555-4321
-123.555.1234
-123*555*1234
-800-555-1234
-900-555-1234
-
-Mr. Schafer
-Mr Smith
-Ms Davis
-Mrs. Robinson
-Mr. T
-
-cat 
-mat
-pat
-bat
-'''
-
-sentence = "Start a sentence and then bring it to an end"
-
-pattern = re.compile(r'\bM(r|s|rs)\.?\s[A-Z]\w*')
-matches = pattern.finditer(text_to_search)
-
-# with open('data.txt') as f:
-#     data = f.read()
-#     matchess = pattern.finditer(data)
-#     for mach in matchess:
-#         print(mach)
-
-counter = 0
-for match in matches:
-    si = match.span()[0]
-    li = match.span()[1]
-    print(match)
-    # print(text_to_search[si:li])
-    counter += 1
-
-print(f"Matches found: [{counter}]")
+print(driver.title)
