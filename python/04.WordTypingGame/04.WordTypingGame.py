@@ -89,7 +89,7 @@ def main(stdscr):
 
     while True:
         wpm_game(stdscr)
-        stdscr.addstr(10, 0, "You completed the text! Press any key to continue...")
+        stdscr.addstr(10, 0,  "You completed the text! Press any key to continue...")
         key = stdscr.getkey()
 
         if ord(key) == 27:
