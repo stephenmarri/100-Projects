@@ -32,6 +32,7 @@ body {
   }
 
   #data_container {
+    width: 100%;
     table {
       width: 100%;
       background-color: var(--secondary-bg-color);
@@ -46,14 +47,14 @@ body {
     thead {
       background-color: #f5f7f8;
       position: sticky;
-      
+      width: 100%;
       border-bottom: 1px solid black;
-      font-style: italic;
       margin: 0;
       top: 0px;
-      margin-bottom: 10px !important;
-      tr {
-      }
+    }
+
+    tbody, t{
+      width: 100%;
     }
   }
 }

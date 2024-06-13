@@ -1,8 +1,11 @@
 import React from 'react'
 
 
-const Filter = ({data}) => {
-    console.log(data)
+const Filter = ({data, setFilterFotState}) => {
+
+    const updateStateFilter = (event) => {
+        setFilterFotState(event.target.value)
+    }
     
     return (
         <div id='fitler_container' className='w-full flex flex-row justify-between py-3 px-3'>
@@ -12,10 +15,11 @@ const Filter = ({data}) => {
                 <option value="State">MLAs</option>
             </select>
 
-            <select className='border border-gray-200 rounded-md' name="cars" id="cars">
+            <select value="All" onChange={updateStateFilter} className='border border-gray-200 rounded-md' name="cars" id="cars">
+            <option key='0' value="All">All</option>
                 {
                     data.map((x, idx) => {
-                        return <option key={idx} value="{x}">{x}</option>
+                        return <option key={idx} value={x}>{x}</option>
                     })
                 }                
             </select>

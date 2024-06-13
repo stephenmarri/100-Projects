@@ -1,0 +1,1229 @@
+{
+    "mal_ap": [
+        {
+            "data_constituency": "Achanta",
+            "data_const_number": "56",
+            "data_leading_candidate": "SATYANARAYANA PITHANI",
+            "data_margin": "26554",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Addanki",
+            "data_const_number": "105",
+            "data_leading_candidate": "GOTTIPATI RAVI KUMAR",
+            "data_margin": "24890",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Adoni",
+            "data_const_number": "146",
+            "data_leading_candidate": "DR. PARTHA SARATHI VALMIKI",
+            "data_margin": "18164",
+            "data_leading_party": "Bharatiya Janata Party"
+        },
+        {
+            "data_constituency": "Allagadda",
+            "data_const_number": "134",
+            "data_leading_candidate": "AKHILA PRIYA BHUMA",
+            "data_margin": "12037",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Alur",
+            "data_const_number": "147",
+            "data_leading_candidate": "B. VIRUPAKSHI",
+            "data_margin": "2831",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Amadalavalasa",
+            "data_const_number": "6",
+            "data_leading_candidate": "KOONA RAVI KUMAR",
+            "data_margin": "35032",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Amalapuram",
+            "data_const_number": "44",
+            "data_leading_candidate": "AITHABATHULA ANANDARAO",
+            "data_margin": "38628",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Anakapalle",
+            "data_const_number": "30",
+            "data_leading_candidate": "KONATHALA RAMAKRISHNA",
+            "data_margin": "65764",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Anantapur Urban",
+            "data_const_number": "153",
+            "data_leading_candidate": "DAGGUPATI PRASAD",
+            "data_margin": "23023",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Anaparthy",
+            "data_const_number": "40",
+            "data_leading_candidate": "RAMAKRISHNA REDDY NALLAMILLI",
+            "data_margin": "20850",
+            "data_leading_party": "Bharatiya Janata Party"
+        },
+        {
+            "data_constituency": "Araku Valley",
+            "data_const_number": "28",
+            "data_leading_candidate": "REGAM MATYALINGAM",
+            "data_margin": "31877",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Atmakur",
+            "data_const_number": "115",
+            "data_leading_candidate": "ANAM.RAMANARAYANA REDDY",
+            "data_margin": "7576",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Avanigadda",
+            "data_const_number": "76",
+            "data_leading_candidate": "BUDDHAPRASAD MANDALI",
+            "data_margin": "46434",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Badvel",
+            "data_const_number": "124",
+            "data_leading_candidate": "DASARI SUDHA",
+            "data_margin": "18567",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Banaganapalle",
+            "data_const_number": "140",
+            "data_leading_candidate": "B.C. JANARDHAN REDDY",
+            "data_margin": "25566",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Bapatla",
+            "data_const_number": "92",
+            "data_leading_candidate": "VEGESANA NARENDRA VARMA RAJU",
+            "data_margin": "27768",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Bhimavaram",
+            "data_const_number": "59",
+            "data_leading_candidate": "RAMANJANEYULU PULAPARTHI (ANJIBABU)",
+            "data_margin": "66974",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Bhimili",
+            "data_const_number": "20",
+            "data_leading_candidate": "GANTA SRINIVASA RAO",
+            "data_margin": "92401",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Bobbili",
+            "data_const_number": "14",
+            "data_leading_candidate": "R.V.S.K.K.RANGA RAO @ BABYNAYANA",
+            "data_margin": "44648",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Chandragiri",
+            "data_const_number": "166",
+            "data_leading_candidate": "VENKATA MANI PRASAD PULLIVARTHI",
+            "data_margin": "43852",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Cheepurupalle",
+            "data_const_number": "15",
+            "data_leading_candidate": "KALAVENKATARAO KIMIDI",
+            "data_margin": "11971",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Chilakaluripet",
+            "data_const_number": "96",
+            "data_leading_candidate": "PRATHIPATI PULLARAO",
+            "data_margin": "33262",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Chintalapudi",
+            "data_const_number": "68",
+            "data_leading_candidate": "ROSHAN KUMAR SONGA",
+            "data_margin": "27766",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Chirala",
+            "data_const_number": "106",
+            "data_leading_candidate": "MADDULURI MALA KONDAIAH",
+            "data_margin": "20984",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Chittoor",
+            "data_const_number": "172",
+            "data_leading_candidate": "GURAJALA JAGAN MOHAN (GJM)",
+            "data_margin": "14604",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Chodavaram",
+            "data_const_number": "26",
+            "data_leading_candidate": "SURYA NAGA SANYASI RAJU KALIDINDI",
+            "data_margin": "42189",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Darsi",
+            "data_const_number": "103",
+            "data_leading_candidate": "BUCHEPALLI SIVA PRASAD REDDY",
+            "data_margin": "2456",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Denduluru",
+            "data_const_number": "64",
+            "data_leading_candidate": "CHINTAMANENI PRABHAKAR",
+            "data_margin": "26266",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Dharmavaram",
+            "data_const_number": "160",
+            "data_leading_candidate": "SATYA KUMAR YADAV",
+            "data_margin": "3734",
+            "data_leading_party": "Bharatiya Janata Party"
+        },
+        {
+            "data_constituency": "Dhone",
+            "data_const_number": "141",
+            "data_leading_candidate": "KOTLA JAYA SURYA PRAKASH REDDY",
+            "data_margin": "6049",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Eluru",
+            "data_const_number": "65",
+            "data_leading_candidate": "RADHA KRISHNAYYA BADETI",
+            "data_margin": "62388",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Etcherla",
+            "data_const_number": "7",
+            "data_leading_candidate": "ESWARA RAO NADUKUDITI",
+            "data_margin": "29089",
+            "data_leading_party": "Bharatiya Janata Party"
+        },
+        {
+            "data_constituency": "Gajapathinagaram",
+            "data_const_number": "16",
+            "data_leading_candidate": "KONDAPALLI SRINIVAS",
+            "data_margin": "25301",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Gajuwaka",
+            "data_const_number": "25",
+            "data_leading_candidate": "PALLA SRINIVAS RAO",
+            "data_margin": "95235",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Gangadhara Nellore (SC)",
+            "data_const_number": "171",
+            "data_leading_candidate": "DR. VM. THOMAS",
+            "data_margin": "26011",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Gannavaram",
+            "data_const_number": "71",
+            "data_leading_candidate": "YARLAGADDA VENKATA RAO",
+            "data_margin": "37628",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Gannavaram(SC)",
+            "data_const_number": "46",
+            "data_leading_candidate": "GIDDI. SATYANARAYANA",
+            "data_margin": "33367",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Giddalur",
+            "data_const_number": "112",
+            "data_leading_candidate": "ASHOK REDDY MUTHUMULA",
+            "data_margin": "973",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Gopalapuram",
+            "data_const_number": "66",
+            "data_leading_candidate": "MADDIPATI VENKATA RAJU",
+            "data_margin": "26784",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Gudivada",
+            "data_const_number": "72",
+            "data_leading_candidate": "VENIGANDLA RAMU",
+            "data_margin": "53040",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Gudur",
+            "data_const_number": "120",
+            "data_leading_candidate": "PASIM SUNIL KUMAR",
+            "data_margin": "21192",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Guntakal",
+            "data_const_number": "150",
+            "data_leading_candidate": "GUMMANUR JAYARAM",
+            "data_margin": "6826",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Guntur East",
+            "data_const_number": "95",
+            "data_leading_candidate": "MOHAMMED NASEER AHMED",
+            "data_margin": "31962",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Guntur West",
+            "data_const_number": "94",
+            "data_leading_candidate": "GALLA MADHAVI",
+            "data_margin": "51150",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Gurajala",
+            "data_const_number": "100",
+            "data_leading_candidate": "YARAPATHINENI SRINIVASA RAO",
+            "data_margin": "29486",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Hindupur",
+            "data_const_number": "157",
+            "data_leading_candidate": "NANDAMURI BALAKRISHNA",
+            "data_margin": "32597",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Ichchapuram",
+            "data_const_number": "1",
+            "data_leading_candidate": "ASHOK BENDALAM",
+            "data_margin": "39783",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Jaggampeta",
+            "data_const_number": "52",
+            "data_leading_candidate": "JYOTHULA NEHRU",
+            "data_margin": "52676",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Jaggayyapeta",
+            "data_const_number": "84",
+            "data_leading_candidate": "RAJAGOPAL SREERAM (TATAIAH)",
+            "data_margin": "15977",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Jammalamadugu",
+            "data_const_number": "131",
+            "data_leading_candidate": "ADINARAYANA REDDY CHADIPIRALA",
+            "data_margin": "17191",
+            "data_leading_party": "Bharatiya Janata Party"
+        },
+        {
+            "data_constituency": "Kadapa",
+            "data_const_number": "126",
+            "data_leading_candidate": "MADHAVI REDDAPPA GARI",
+            "data_margin": "18860",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kadiri",
+            "data_const_number": "161",
+            "data_leading_candidate": "KANDIKUNTA VENKATA PRASAD",
+            "data_margin": "6265",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kaikalur",
+            "data_const_number": "73",
+            "data_leading_candidate": "KAMINENI SRINIVAS",
+            "data_margin": "45273",
+            "data_leading_party": "Bharatiya Janata Party"
+        },
+        {
+            "data_constituency": "Kakinada City",
+            "data_const_number": "41",
+            "data_leading_candidate": "VANAMADI VENKATESWARA RAO @ KONDABABU",
+            "data_margin": "56572",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kakinada Rural",
+            "data_const_number": "38",
+            "data_leading_candidate": "PANTAM VENKATESWARA RAO (PANTAM NANAJI)",
+            "data_margin": "72040",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Kalyandurg",
+            "data_const_number": "154",
+            "data_leading_candidate": "AMILINENI SURENDRA BABU",
+            "data_margin": "37734",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kamalapuram",
+            "data_const_number": "130",
+            "data_leading_candidate": "KRISHNA CHAITANYA REDDY PUTHA",
+            "data_margin": "25357",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kandukur",
+            "data_const_number": "109",
+            "data_leading_candidate": "INTURI NAGESWARA RAO",
+            "data_margin": "18558",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kanigiri",
+            "data_const_number": "113",
+            "data_leading_candidate": "DR. UGRA NARASIMHA REDDY MUKKU",
+            "data_margin": "14604",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kavali",
+            "data_const_number": "114",
+            "data_leading_candidate": "DAGUMATI VENKATA KRISHNA REDDY",
+            "data_margin": "30948",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kodumur (SC)",
+            "data_const_number": "143",
+            "data_leading_candidate": "BOGGULA DASTAGIRI",
+            "data_margin": "21583",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kodur (SC)",
+            "data_const_number": "127",
+            "data_leading_candidate": "ARAVA SREEDHAR",
+            "data_margin": "11101",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Kondapi (SC)",
+            "data_const_number": "110",
+            "data_leading_candidate": "DOCTOR DOLA SREE BALA VEERANJANEYA SWAMY",
+            "data_margin": "24756",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kothapeta",
+            "data_const_number": "47",
+            "data_leading_candidate": "BANDARU SATYANANDA RAO",
+            "data_margin": "56479",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kovur",
+            "data_const_number": "116",
+            "data_leading_candidate": "PRASHANTHI REDDY VEMIREDDY",
+            "data_margin": "54583",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kovvur",
+            "data_const_number": "54",
+            "data_leading_candidate": "MUPPIDI VENKATESWARA RAO",
+            "data_margin": "33946",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kuppam",
+            "data_const_number": "175",
+            "data_leading_candidate": "CHANDRABABU NAIDU NARA",
+            "data_margin": "48006",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kurnool",
+            "data_const_number": "137",
+            "data_leading_candidate": "T.G.BHARATH",
+            "data_margin": "18876",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Kurupam",
+            "data_const_number": "11",
+            "data_leading_candidate": "JAGADEESWARI THOYAKA",
+            "data_margin": "23500",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Macherla",
+            "data_const_number": "101",
+            "data_leading_candidate": "JULAKANTI BRAHMANANDA REDDY",
+            "data_margin": "33318",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Machilipatnam",
+            "data_const_number": "75",
+            "data_leading_candidate": "KOLLU. RAVINDRA",
+            "data_margin": "50242",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Madakasira (SC)",
+            "data_const_number": "156",
+            "data_leading_candidate": "M.S.RAJU",
+            "data_margin": "351",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Madanapalle",
+            "data_const_number": "164",
+            "data_leading_candidate": "M.SHAJAHAN BASHA",
+            "data_margin": "5509",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Madugula",
+            "data_const_number": "27",
+            "data_leading_candidate": "BANDARU SATYANARAYANA MURTHY",
+            "data_margin": "28026",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Mandapeta",
+            "data_const_number": "48",
+            "data_leading_candidate": "JOGESWARA RAO.V",
+            "data_margin": "44435",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Mangalagiri",
+            "data_const_number": "87",
+            "data_leading_candidate": "NARA LOKESH",
+            "data_margin": "91413",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Mantralayam",
+            "data_const_number": "145",
+            "data_leading_candidate": "Y. BALANAGI REDDY",
+            "data_margin": "12805",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Markapuram",
+            "data_const_number": "111",
+            "data_leading_candidate": "KANDULA NARAYANA REDDY",
+            "data_margin": "13979",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Mummidivaram",
+            "data_const_number": "43",
+            "data_leading_candidate": "DATLA SUBBARAJU (BUCHIBABU)",
+            "data_margin": "38736",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Mydukur",
+            "data_const_number": "133",
+            "data_leading_candidate": "SUDHAKAR PUTTA",
+            "data_margin": "20950",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Mylavaram",
+            "data_const_number": "82",
+            "data_leading_candidate": "VASANTHA VENKATA KRISHNA PRASAD",
+            "data_margin": "42829",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Nagari",
+            "data_const_number": "170",
+            "data_leading_candidate": "GALI BHANU PRAKASH",
+            "data_margin": "45004",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Nandigama (SC)",
+            "data_const_number": "83",
+            "data_leading_candidate": "TANGIRALA SOWMYA",
+            "data_margin": "27395",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Nandikotkur (SC)",
+            "data_const_number": "136",
+            "data_leading_candidate": "G JAYASURYA",
+            "data_margin": "9792",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Nandyal",
+            "data_const_number": "139",
+            "data_leading_candidate": "NASYAM MOHAMMED FAROOK",
+            "data_margin": "12333",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Narasannapeta",
+            "data_const_number": "8",
+            "data_leading_candidate": "BAGGU RAMANAMURTHY",
+            "data_margin": "29371",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Narasapuram",
+            "data_const_number": "58",
+            "data_leading_candidate": "BOMMIDI NARAYANA NAYAKAR",
+            "data_margin": "49738",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Narasaraopet",
+            "data_const_number": "97",
+            "data_leading_candidate": "ARAVINDA BABU CHADALAVADA",
+            "data_margin": "19705",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Narsipatnam",
+            "data_const_number": "34",
+            "data_leading_candidate": "AYYANNAPATRUDU CHINTAKAYALA",
+            "data_margin": "24676",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Nellimarla",
+            "data_const_number": "17",
+            "data_leading_candidate": "LOKAM NAGA MADHAVI",
+            "data_margin": "39829",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Nellore City",
+            "data_const_number": "117",
+            "data_leading_candidate": "NARAYANA PONGURU",
+            "data_margin": "72489",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Nellore Rural",
+            "data_const_number": "118",
+            "data_leading_candidate": "KOTAMREDDY SRIDHAR REDDY",
+            "data_margin": "34480",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Nidadavole",
+            "data_const_number": "55",
+            "data_leading_candidate": "KANDULA DURGESH",
+            "data_margin": "33304",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Nuzvid",
+            "data_const_number": "70",
+            "data_leading_candidate": "KOLUSU PARTHA SARATHY",
+            "data_margin": "12378",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Ongole",
+            "data_const_number": "108",
+            "data_leading_candidate": "DAMACHARLA JANARDHANA RAO",
+            "data_margin": "34026",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Paderu",
+            "data_const_number": "29",
+            "data_leading_candidate": "MATSYARASA VISWESWARA RAJU",
+            "data_margin": "19338",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Palacole",
+            "data_const_number": "57",
+            "data_leading_candidate": "DR.NIMMALA RAMANAIDU",
+            "data_margin": "67945",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Palakonda",
+            "data_const_number": "10",
+            "data_leading_candidate": "JAYAKRISHNA NIMMAKA",
+            "data_margin": "13291",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Palamaner",
+            "data_const_number": "174",
+            "data_leading_candidate": "AMARANATHA REDDY. N",
+            "data_margin": "20122",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Palasa",
+            "data_const_number": "2",
+            "data_leading_candidate": "GOUTHU SIREESHA",
+            "data_margin": "40350",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pamarru (SC)",
+            "data_const_number": "77",
+            "data_leading_candidate": "KUMAR RAJA VARLA",
+            "data_margin": "29690",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Panyam",
+            "data_const_number": "138",
+            "data_leading_candidate": "GOWRU CHARITHA REDDY",
+            "data_margin": "40591",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Parchur",
+            "data_const_number": "104",
+            "data_leading_candidate": "YELURI SAMBASIVA RAO",
+            "data_margin": "24013",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Parvathipuram",
+            "data_const_number": "12",
+            "data_leading_candidate": "BONELA VIJAYA CHANDRA",
+            "data_margin": "24414",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pathapatnam",
+            "data_const_number": "4",
+            "data_leading_candidate": "MAMIDI GOVINDA RAO",
+            "data_margin": "26527",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pattikonda",
+            "data_const_number": "142",
+            "data_leading_candidate": "K.E. SHYAM KUMAR",
+            "data_margin": "14211",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Payakaraopet",
+            "data_const_number": "33",
+            "data_leading_candidate": "ANITHA VANGALAPUDI",
+            "data_margin": "43727",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pedakurapadu",
+            "data_const_number": "85",
+            "data_leading_candidate": "BHASHYAM PRAVEEN",
+            "data_margin": "21089",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pedana",
+            "data_const_number": "74",
+            "data_leading_candidate": "KAGITHA KRISHNAPRASAD",
+            "data_margin": "38123",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Peddapuram",
+            "data_const_number": "39",
+            "data_leading_candidate": "CHINA RAJAPPA NIMMAKAYALA",
+            "data_margin": "40451",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Penamaluru",
+            "data_const_number": "78",
+            "data_leading_candidate": "BODE PRASAD",
+            "data_margin": "59915",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pendurthi",
+            "data_const_number": "31",
+            "data_leading_candidate": "PANCHAKARLA RAMESH BABU",
+            "data_margin": "81870",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Penukonda",
+            "data_const_number": "158",
+            "data_leading_candidate": "S. SAVITHA",
+            "data_margin": "33388",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pileru",
+            "data_const_number": "163",
+            "data_leading_candidate": "NALLARI KISHAN KUMAR REDDY",
+            "data_margin": "25081",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pithapuram",
+            "data_const_number": "37",
+            "data_leading_candidate": "KONIDALA PAWAN KALYAN",
+            "data_margin": "70279",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Polavaram",
+            "data_const_number": "67",
+            "data_leading_candidate": "CHIRRI BALARAJU",
+            "data_margin": "7935",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Ponnur",
+            "data_const_number": "88",
+            "data_leading_candidate": "DHULIPALLA NARENDRA KUMAR",
+            "data_margin": "32915",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Prathipadu",
+            "data_const_number": "36",
+            "data_leading_candidate": "VARUPULA SATYA PRABHA",
+            "data_margin": "38768",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Prathipadu (SC)",
+            "data_const_number": "93",
+            "data_leading_candidate": "BURLA RAMANJANEYULU",
+            "data_margin": "42015",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Proddatur",
+            "data_const_number": "132",
+            "data_leading_candidate": "NANDYALA VARADA RAJULA REDDY",
+            "data_margin": "22744",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Pulivendla",
+            "data_const_number": "129",
+            "data_leading_candidate": "YS JAGAN MOHAN REDDY",
+            "data_margin": "61687",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Punganur",
+            "data_const_number": "165",
+            "data_leading_candidate": "PEDDIREDDI RAMACHANDRA REDDY",
+            "data_margin": "6095",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Puthalapattu (SC)",
+            "data_const_number": "173",
+            "data_leading_candidate": "K MURALI MOHAN",
+            "data_margin": "15634",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Puttaparthi",
+            "data_const_number": "159",
+            "data_leading_candidate": "PALLE SINDHURA REDDY",
+            "data_margin": "8760",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Rajahmundry City",
+            "data_const_number": "50",
+            "data_leading_candidate": "ADIREDDY SRINIVAS",
+            "data_margin": "71404",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Rajahmundry Rural",
+            "data_const_number": "51",
+            "data_leading_candidate": "GORANTLA BUTCHAIAH CHOUDARY",
+            "data_margin": "64090",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Rajam",
+            "data_const_number": "9",
+            "data_leading_candidate": "KONDRU MURALI MOHAN",
+            "data_margin": "20722",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Rajampet",
+            "data_const_number": "125",
+            "data_leading_candidate": "AKEPATI AMARNATH REDDY",
+            "data_margin": "7016",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Rajanagaram",
+            "data_const_number": "49",
+            "data_leading_candidate": "BATHULA BALARAMAKRISHNA S/O GANGARAO",
+            "data_margin": "34049",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Ramachandrapuram",
+            "data_const_number": "42",
+            "data_leading_candidate": "VASAMSETTI. SUBASH",
+            "data_margin": "26291",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Rampachodavaram",
+            "data_const_number": "53",
+            "data_leading_candidate": "MIRIYALA SIRISHA DEVI",
+            "data_margin": "9139",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Raptadu",
+            "data_const_number": "155",
+            "data_leading_candidate": "PARITALA SUNITHAMMA",
+            "data_margin": "23329",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Rayachoti",
+            "data_const_number": "128",
+            "data_leading_candidate": "MANDIPALLI RAMPRASAD REDDY",
+            "data_margin": "2495",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Rayadurg",
+            "data_const_number": "148",
+            "data_leading_candidate": "KALAVA SRINIVASULU",
+            "data_margin": "41659",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Razole",
+            "data_const_number": "45",
+            "data_leading_candidate": "DEVA VARAPRASAD",
+            "data_margin": "39011",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Repalle",
+            "data_const_number": "90",
+            "data_leading_candidate": "ANAGANI SATYA PRASAD",
+            "data_margin": "39947",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Salur",
+            "data_const_number": "13",
+            "data_leading_candidate": "GUMMIDI SANDHYARANI",
+            "data_margin": "13733",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Santhanuthalapadu (SC)",
+            "data_const_number": "107",
+            "data_leading_candidate": "VIJAY KUMAR B.N",
+            "data_margin": "30385",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Sarvepalli",
+            "data_const_number": "119",
+            "data_leading_candidate": "CHANDRA MOHAN REDDY SOMIREDDY",
+            "data_margin": "16288",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Sattenapalle",
+            "data_const_number": "98",
+            "data_leading_candidate": "KANNA LAKSHMINARAYANA",
+            "data_margin": "27836",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Satyavedu",
+            "data_const_number": "169",
+            "data_leading_candidate": "KONETI ADIMULAM",
+            "data_margin": "3739",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Singanamala (SC)",
+            "data_const_number": "152",
+            "data_leading_candidate": "BANDARU SRAVANI SREE",
+            "data_margin": "8788",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Srikakulam",
+            "data_const_number": "5",
+            "data_leading_candidate": "GONDU SHANKAR",
+            "data_margin": "52521",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Srikalahasti",
+            "data_const_number": "168",
+            "data_leading_candidate": "BOJJALA VENKATA SUDHIR REDDY",
+            "data_margin": "43304",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Srisailam",
+            "data_const_number": "135",
+            "data_leading_candidate": "BUDDA RAJASEKHARA REDDY",
+            "data_margin": "6385",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Srungavarapukota",
+            "data_const_number": "19",
+            "data_leading_candidate": "KOLLA LALITHA KUMARI",
+            "data_margin": "38790",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Sullurpeta",
+            "data_const_number": "121",
+            "data_leading_candidate": "NELAVALA VIJAYASREE",
+            "data_margin": "29115",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Tadepalligudem",
+            "data_const_number": "62",
+            "data_leading_candidate": "BOLISETTY SRINIVAS",
+            "data_margin": "62492",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Tadikonda (SC)",
+            "data_const_number": "86",
+            "data_leading_candidate": "TENALI SRAVAN KUMAR",
+            "data_margin": "39606",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Tadpatri",
+            "data_const_number": "151",
+            "data_leading_candidate": "ASHMIT REDDY J.C",
+            "data_margin": "27731",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Tanuku",
+            "data_const_number": "61",
+            "data_leading_candidate": "ARIMILLI RADHA KRISHNA",
+            "data_margin": "72121",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Tekkali",
+            "data_const_number": "3",
+            "data_leading_candidate": "ATCHANNAIDU KINJARAPU",
+            "data_margin": "34435",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Tenali",
+            "data_const_number": "91",
+            "data_leading_candidate": "NADENDLA MANOHAR",
+            "data_margin": "48112",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Thamballapalle",
+            "data_const_number": "162",
+            "data_leading_candidate": "P. DWARAKANATHA REDDY",
+            "data_margin": "10103",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        },
+        {
+            "data_constituency": "Tirupati",
+            "data_const_number": "167",
+            "data_leading_candidate": "ARANII SRENEVASULU",
+            "data_margin": "61956",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Tiruvuru (SC)",
+            "data_const_number": "69",
+            "data_leading_candidate": "KOLIKAPUDI SRINIVASA RAO",
+            "data_margin": "21874",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Tuni",
+            "data_const_number": "35",
+            "data_leading_candidate": "DIVYA YANAMALA",
+            "data_margin": "15177",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Udayagiri",
+            "data_const_number": "123",
+            "data_leading_candidate": "KAKARLA SURESH",
+            "data_margin": "9621",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Undi",
+            "data_const_number": "60",
+            "data_leading_candidate": "KANUMURU RAGHU RAMA KRISHNA RAJU (R R R)",
+            "data_margin": "56777",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Ungutur",
+            "data_const_number": "63",
+            "data_leading_candidate": "DHARMARAJU PATSAMATLA",
+            "data_margin": "44945",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Uravakonda",
+            "data_const_number": "149",
+            "data_leading_candidate": "PAYYAVULA KESHAV",
+            "data_margin": "21704",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Vemuru (SC)",
+            "data_const_number": "89",
+            "data_leading_candidate": "ANANDA BABU NAKKA",
+            "data_margin": "22021",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Venkatagiri",
+            "data_const_number": "122",
+            "data_leading_candidate": "KURUGONDLA RAMAKRISHNA",
+            "data_margin": "16294",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Vijayawada Central",
+            "data_const_number": "80",
+            "data_leading_candidate": "BONDA UMAMAHESWARARAO",
+            "data_margin": "68886",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Vijayawada East",
+            "data_const_number": "81",
+            "data_leading_candidate": "GADDE RAMA MOHAN",
+            "data_margin": "49640",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Vijayawada West",
+            "data_const_number": "79",
+            "data_leading_candidate": "YALAMANCHILI SATYANARAYANA CHOWDARY (SUJANA CHOWDARY)",
+            "data_margin": "47032",
+            "data_leading_party": "Bharatiya Janata Party"
+        },
+        {
+            "data_constituency": "Vinukonda",
+            "data_const_number": "99",
+            "data_leading_candidate": "GONUGUNTLA VENKATA SIVA SITA RAMA ANZANNEYLLU",
+            "data_margin": "30267",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Visakhapatnam East",
+            "data_const_number": "21",
+            "data_leading_candidate": "RAMAKRISHNA BABU VELAGAPUDI",
+            "data_margin": "70877",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Visakhapatnam North",
+            "data_const_number": "23",
+            "data_leading_candidate": "VISHNU KUMAR RAJU PENMETSA",
+            "data_margin": "47534",
+            "data_leading_party": "Bharatiya Janata Party"
+        },
+        {
+            "data_constituency": "Visakhapatnam South",
+            "data_const_number": "22",
+            "data_leading_candidate": "CH.VAMSI KRISHNA SRINIVAS",
+            "data_margin": "64594",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Visakhapatnam West",
+            "data_const_number": "24",
+            "data_leading_candidate": "P.G.V.R.NAIDU(GANABABU)",
+            "data_margin": "35184",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Vizianagaram",
+            "data_const_number": "18",
+            "data_leading_candidate": "ADITI VIJAYALAKSHMI GAJAPATHI RAJU PUSAPATI",
+            "data_margin": "60609",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Yelamanchili",
+            "data_const_number": "32",
+            "data_leading_candidate": "SUNDARAPU VIJAY KUMAR",
+            "data_margin": "48956",
+            "data_leading_party": "Janasena Party"
+        },
+        {
+            "data_constituency": "Yemmiganur",
+            "data_const_number": "144",
+            "data_leading_candidate": "B. JAYANAGESWARA REDDY",
+            "data_margin": "15837",
+            "data_leading_party": "Telugu Desam"
+        },
+        {
+            "data_constituency": "Yerragondapalem (SC)",
+            "data_const_number": "102",
+            "data_leading_candidate": "CHANDRA SEKHAR TATIPARTHI",
+            "data_margin": "5200",
+            "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+        }
+    ]
+}
