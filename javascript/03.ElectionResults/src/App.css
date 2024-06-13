@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-bg-color: #fff6ff;
+  --secondary-bg-color: #fdfffc;
+}
+
+body {
+  background-color: var(--primary-bg-color);
+  height: 100%;
+
+  #filter_container {
+    background-color: var(--secondary-bg-color);
+    font-size: 1.15rem;
+  }
+
+  #data_container {
+    background-color: var(--secondary-bg-color);
+    display: block;
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      }
+
+      thead{
+        display: table;
+        width: 100px !important;
+      }
+      
+      tbody {
+        display: block;
+        overflow-y: auto;
+        max-height: 85vh !important;
+
+        background-color: wheat;
+      }
+  }
+}
+
+

@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+html {
+  height: 100vh;
+  width: 100vw;
+  font-size: 12px;
+  font-family: BaseFont;
+}
+
+/* TODO FONTS */
+
+@font-face {
+  font-family: BaseFont;
+  src: url("/Poppins-Regular.ttf");
+  /* src: url('/Roboto-Regular.ttf'); */
+}
+
+
+/* TODO UTILITY CLASSES */
+
+.fc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.fr {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}

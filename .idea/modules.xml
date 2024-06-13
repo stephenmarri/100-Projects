@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/100-Projects.iml" filepath="$PROJECT_DIR$/.idea/100-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../learning/dsa/leetcode/.idea/leetcode.iml" filepath="$PROJECT_DIR$/../../learning/dsa/leetcode/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../learning/sandbox/py/.idea/py.iml" filepath="$PROJECT_DIR$/../../learning/sandbox/py/.idea/py.iml" />
     </modules>
   </component>
 </project>
