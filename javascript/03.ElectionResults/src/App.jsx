@@ -9,10 +9,14 @@ import Data from './components/Data'
 import { data } from './assets/eci_loksabha_data.js';
 
 export default function App() {
+
+const stateData = data.map(x => Object.keys(x)[0])
+
+console.log(stateData)
   return (
     <>
       <Header />
-      <Filter />
+      <Filter data={stateData} />
       <Data data={data} />
     </>
   )

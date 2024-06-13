@@ -6,12 +6,12 @@ const Data = ({data}) => {
     return (
         <div id='data_container' className=''>
             <table className="">
-                <thead>
+                <thead className=''>
                     <tr className='text-left'>
-                        <th className=''>#</th>
-                        <th className=''>Const.</th>
-                        <th className=''>Elected</th>
-                        <th className=''>Party</th>
+                        <th className='p-3'>#</th>
+                        <th className='p-3'>Const.</th>
+                        <th className='p-3'>Elected</th>
+                        <th className='p-3'>Party</th>
                     </tr>
                 </thead>
      

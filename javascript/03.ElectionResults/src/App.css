@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --primary-bg-color: #fff6ff;
+  --primary-bg-color: #F6F5F5;
   --secondary-bg-color: #fdfffc;
 }
 
@@ -11,14 +11,9 @@ body {
   background-color: var(--primary-bg-color);
   height: 100%;
 
-  #header_container{
-    
-  }
-
-  #filter_container {
-    background-color: var(--secondary-bg-color);
-    font-size: 1.15rem;
-    /* height: 5vh; */
+  #fitler_container {
+    background-color: var(--primary-bg-color);
+    font-size: 1.15rem !important;
   }
 
   #data_container {
@@ -40,15 +35,15 @@ body {
       th{
         position: sticky;
         top: 0;
-        background-color: var(--secondary-bg-color);
+        background-color: #F7EFE5;
         border: 0;
+
+        tr{
+          padding-top: 3px;
+          padding: 10px;
+        }
       }
 
-      tbody {
-
-        z-index: 0;
-        background-color: wheat;
-      }
   }
 }
 
