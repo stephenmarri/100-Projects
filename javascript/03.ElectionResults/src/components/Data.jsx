@@ -1,13 +1,13 @@
 import React from 'react';
-import { data } from '../assets/eci_loksabha_data.js';
 
-const Data = () => {
+
+const Data = ({data}) => {
 
     return (
         <div id='data_container' className=''>
             <table className="">
                 <thead>
-                    <tr className=''>
+                    <tr className='text-left'>
                         <th className=''>#</th>
                         <th className=''>Const.</th>
                         <th className=''>Elected</th>

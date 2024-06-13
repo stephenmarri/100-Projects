@@ -6,13 +6,14 @@ import './App.css'
 import Header from './components/Header'
 import Filter from './components/Filter'
 import Data from './components/Data'
+import { data } from './assets/eci_loksabha_data.js';
 
 export default function App() {
   return (
     <>
       <Header />
       <Filter />
-      <Data />
+      <Data data={data} />
     </>
   )
 }
