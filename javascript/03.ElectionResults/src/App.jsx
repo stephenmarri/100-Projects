@@ -19,10 +19,14 @@ export default function App() {
   console.log(`Curret filter: ${filter_state}`)
   console.log(`Curret power: ${filter_power}`)
 
-  // Get Display data
-    const filteredData = filter_data_mp(json_full_mps, filter_state)
-    const flatData = flatten_data(filteredData)
-    const display_data = get_display_data(flatData)  
+  // const flatDataMla = flatten_data_mla(json_full_mla)
+  
+  const base_data = filter_power == 'mp' ?  json_full_mps : json_full_mla
+ 
+    const filteredData = filter_data_mp(base_data, filter_state)
+    const flatData = flatten_data_mp(filteredData)
+    const display_data = get_display_data_mp(flatData)  
+
 
   return (
     <>
@@ -34,6 +38,10 @@ export default function App() {
 }
 
 
+function flatten_data_mla(json_data){
+  let flat_mla = Object.entries(json_data).reduce((avalue,[bkey, bvalue]) => avalue.concat(bvalue),[])
+  return flat_mla
+}
 
 function filter_data_mp(json_data, stateName) {
   if (stateName == "All") {
@@ -43,7 +51,7 @@ function filter_data_mp(json_data, stateName) {
   }
 }
 
-function flatten_data(json_data) {
+function flatten_data_mp(json_data) {
   let json_data_flat = json_data.map((states, index) => {
     return Object.entries(states).map(([stateName, constituencies]) => {
       return constituencies.map(x => {
@@ -60,7 +68,7 @@ function flatten_data(json_data) {
 }
 
 
-function get_display_data(json_data) {
+function get_display_data_mp(json_data) {
   const display_data_arr = json_data.reduce((a, b) => a.concat(b), []).reduce((a, b) => a.concat(b), [])
 
   // console.log(display_data_arr)
