@@ -27,7 +27,7 @@ const Filter = ({data, fitlerForState, setFilterFotState, filterForPower, setFil
                 }                
             </select>
 
-            <input style={{width: '30%'}} className='border border-gray-200 px-2 rounded-md' type="text" name="filter" id="filter" placeholder='Search' />
+            <input style={{width: '35%'}} className='border border-gray-200 px-2 rounded-md' type="text" name="filter" id="filter" placeholder='Search' />
         </div>
     )
 }

@@ -18,11 +18,10 @@ export default function App() {
   const [filter_state, setFilter_state] = useState('All'); // 29 states and 7 UTs
   const [filter_state_mla, setFilter_state_mla] = useState('All');
 
-
   let display_data = null
+  let tranformed_mps = transform_mp(json_full_mps)
 
-
-  const base_data = filter_power == 'mp' ? json_full_mps : json_full_mla
+  const base_data = filter_power == 'mp' ? tranformed_mps : json_full_mla
 
   if (filter_power == 'mp') {
     const filteredData = filter_data_mp(base_data, filter_state)
@@ -102,4 +101,29 @@ function sortObjectOfArrays(obj) {
   console.log(newObj)
   console.log(newObj)
   return newObj
+}
+
+function capitalizeWords(string) {
+  return string.split(/(?<=\.|\s)/).map(word => {
+    if (word.trim() === '') return word; // Preserve empty strings (e.g., between parenthesis)
+    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+  }).join('');
+}
+
+function transform_mp(data) {
+  const newData = data.map(state => {
+    const newState = {};
+    Object.entries(state).forEach(([stateName, constituencies]) => {
+      newState[stateName] = constituencies.map(each => {
+        return Object.entries(each).reduce((acc, [key, value]) => {
+          acc[key] = capitalizeWords(value);
+          return acc;
+        }, {});
+      });
+    });
+    return newState;
+  });
+
+  console.log(newData);
+  return newData
 }

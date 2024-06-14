@@ -21,8 +21,8 @@ const Data = ({ data }) => {
                         return <tr className='border-b border-t' key={`${index}`}>
                             <td style={{width: '6%'}} className='ps-1 '>{constituency.data_const_number}</td>
                             <td style={{width: '26%'}} className='ps-1 '>{constituency.data_constituency}</td>
-                            <td style={{width: '36%'}} className='ps-1 '>{constituency.data_leading_candidate}</td>
-                            <td style={{width: '32%'}} className='ps-1 '>{constituency.data_leading_party}</td>
+                            <td style={{width: '35%'}} className='ps-1 '>{constituency.data_leading_candidate}</td>
+                            <td style={{width: '33%'}} className='ps-1 '>{constituency.data_leading_party}</td>
                         </tr>
                     })
                 }
