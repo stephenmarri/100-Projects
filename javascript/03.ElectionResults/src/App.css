@@ -12,7 +12,7 @@ body {
   height: 100%;
 
   #header_container {
-    height: 8vh;
+    height: 6vh;
   }
 
  
@@ -23,26 +23,16 @@ body {
     background-color: var(--primary-bg-color);
     font-size: 1.15rem !important;
     border-bottom: 1px solid black !important;
-    /* margin-bottom: 2px; */
-
-    & :first-child {
-      width: 18%;
-    }
-
-    & :nth-child(2) {
-      width: 32%;
-    }
-
-    &:nth-child(3) {
-      width: 40%;
-    }
   }
 
   #data_container {
     display: block;
     overflow: auto;
-    height: 82vh;
-
+    height: 84vh;
+    
+    & select, input{
+      color: red !important;
+    }
   }
 
   table {
@@ -56,14 +46,14 @@ body {
     background-color: #f5f7f8;
     width: 100%;
     border-bottom: 1px solid gray;
-    color: darkblue
-
+    color: darkblue;
+    height: 4vh;   
   }
 
   tbody {
     display: block;
     overflow-y: scroll;
-    max-height: 76vh; /* Adjust based on header height and footer height */
+    max-height: 78vh; /* Adjust based on header height and footer height */
     width: 100%;
   }
 
@@ -92,5 +82,10 @@ body {
 
 @media screen and (min-width: 760px) {
   body {
+    font-size: 14px;
+    tr, td{
+      padding-top: 2px;
+      padding-bottom: 2px;
+    }
   }
 }

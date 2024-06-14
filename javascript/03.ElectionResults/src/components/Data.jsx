@@ -19,10 +19,10 @@ const Data = ({ data }) => {
                 {
                     data.map((constituency, index) => {
                         return <tr className='border-b border-t' key={`${index}`}>
-                            <td Style={"width: 10%"} className='ps-1 '>{constituency.data_const_number}</td>
-                            <td Style={"width: 24%"} className='ps-1 '>{constituency.data_constituency}</td>
-                            <td Style={"width: 34%"} className='ps-1 '>{constituency.data_leading_candidate}</td>
-                            <td Style={"width: 32%"} className='ps-1 '>{constituency.data_leading_party}</td>
+                            <td style={{width: '10%'}} className='ps-1 '>{constituency.data_const_number}</td>
+                            <td style={{width: '24%'}} className='ps-1 '>{constituency.data_constituency}</td>
+                            <td style={{width: '34%'}} className='ps-1 '>{constituency.data_leading_candidate}</td>
+                            <td style={{width: '32%'}} className='ps-1 '>{constituency.data_leading_party}</td>
                         </tr>
                     })
                 }
