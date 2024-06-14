@@ -8,6 +8,7 @@ import Filter from './components/Filter'
 import Data from './components/Data'
 import json_full_mps from './assets/eci_loksabha_data.json';
 import json_full_mla from './assets/eci_mla_data.json';
+import Footer from './components/Footer'
 
 export default function App() {
 
@@ -27,11 +28,13 @@ export default function App() {
     const filteredData = filter_data_mp(base_data, filter_state)
     const flatData = flatten_data_mp(filteredData)
     display_data = get_display_data_mp(flatData)
+    display_data = filter_state == 'All' ? display_data : display_data.sort((a,b) => a["data_const_number"] - b["data_const_number"])
   } else {
     const filterDataMla = filter_state_mla == 'All' ? json_full_mla : Object.entries(json_full_mla).filter(([key, value]) => key == filter_state_mla)
-    const sortedDataMla =  sortObjectOfArrays(filterDataMla)
-    const flatDataMla = flatten_data_mla(sortedDataMla)
+    // const sortedDataMla =  sortObjectOfArrays(filterDataMla)
+    const flatDataMla = flatten_data_mla(filterDataMla)
     display_data = get_display_data_mp(flatDataMla)
+    display_data = filter_state_mla == 'All' ? display_data : display_data.sort((a,b) => a["data_const_number"] - b["data_const_number"])
   }
 
   const display_states = filter_power == 'mp' ? stateData : stateData_mla
@@ -45,6 +48,7 @@ export default function App() {
       <Header />
       <Filter data={display_states} fitlerForState={display_filter_state} setFilterFotState={display_setFilterFunc} filterForPower={filter_power} setFilterForPower={setFilter_power} />
       <Data data={display_data} />
+      <Footer />
     </>
   )
 }
@@ -95,6 +99,7 @@ function sortObjectOfArrays(obj) {
       return a["data_const_number"] - b["data_const_number"]
     });
   });
+  console.log(newObj)
   console.log(newObj)
   return newObj
 }

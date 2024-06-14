@@ -10,13 +10,20 @@
 body {
   background-color: var(--primary-bg-color);
   height: 100%;
-  width: 100%;
+
+  #header_container {
+    height: 8vh;
+  }
+
+ 
 
   #fitler_container {
+    height: 6vh;
+    width: 100%;
     background-color: var(--primary-bg-color);
     font-size: 1.15rem !important;
     border-bottom: 1px solid black !important;
-    margin-bottom: 2px;
+    /* margin-bottom: 2px; */
 
     & :first-child {
       width: 18%;
@@ -32,52 +39,58 @@ body {
   }
 
   #data_container {
+    display: block;
+    overflow: auto;
+    height: 82vh;
+
+  }
+
+  table {
     width: 100%;
-    table {
-      width: 100%;
-      background-color: var(--secondary-bg-color);
-      border-collapse: se;
-      display: block;
-      margin-top: -1px;
-      position: fixed;
-      height: 100vh;
-      overflow: auto;
-      table-layout: fixed;
-    }
+    background-color: var(--secondary-bg-color);
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
 
-    thead {
-      background-color: #f5f7f8;
-      position: sticky;
-      width: 100%;
-      border-bottom: 1px solid black;
-      margin: 0;
-      top: 0px;
+  thead {
+    background-color: #f5f7f8;
+    width: 100%;
+    border-bottom: 1px solid gray;
+    color: darkblue
 
-      
+  }
 
-    }
+  tbody {
+    display: block;
+    overflow-y: scroll;
+    max-height: 76vh; /* Adjust based on header height and footer height */
+    width: 100%;
+  }
 
+  th,
+  td {
+    /* width: 25%; Adjust based on the number of columns */
+    word-wrap: break-word; /* Allows long words to be broken and wrap to the next line */
+    white-space: normal; /* Normal white-space behavior with wrapping */
+    overflow-wrap: break-word; /* Breaks long words if they overflow */
+    word-break: break-all; /* Breaks long words if they overflow */
+    padding-right: 2px;
+  }
 
-    th, td {
-      /* width: 25%; Adjust based on the number of columns */
-      word-wrap: break-word; /* Allows long words to be broken and wrap to the next line */
-      white-space: normal; /* Normal white-space behavior with wrapping */
-      overflow-wrap: break-word; /* Breaks long words if they overflow */
-      word-break: break-all; /* Breaks long words if they overflow */
-      padding-right: 2px;
-    }
+  tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed; /* Ensures the columns are of equal width */
+  }
 
-    tr {
-      display: table;
-      width: 100%;
-      table-layout: fixed; /* Ensures the columns are of equal width */
-    }
+  #footer_container {
+    height: 4vh;
+    width: 100vw;
+    border-top: 1px solid orange;
   }
 }
 
-
 @media screen and (min-width: 760px) {
   body {
-    
   }
 }
