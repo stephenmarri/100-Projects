@@ -6,26 +6,28 @@ import './App.css'
 import Header from './components/Header'
 import Filter from './components/Filter'
 import Data from './components/Data'
-import mps from './assets/eci_loksabha_data.json';
-import mla_ap from './assets/eci_ap_data.json';
+import json_full_mps from './assets/eci_loksabha_data.json';
+import json_full_mla from './assets/eci_mla_data.json';
 
 export default function App() {
 
-  const stateData = mps.map(x => Object.keys(x)[0])
-  const [filter_position, setFilter_position] = useState('mp'); // mp or mla
+  const stateData = json_full_mps.map(x => Object.keys(x)[0])
+  const [filter_power, setFilter_power] = useState('mp'); // mp or mla
   const [filter_state, setFilter_state] = useState('All'); // 29 states and 7 UTs
 
 
   console.log(`Curret filter: ${filter_state}`)
+  console.log(`Curret power: ${filter_power}`)
+
   // Get Display data
-  const filteredData = filter_data_mp(mps, filter_state)
-  const flatData = flatten_data(filteredData)
-  const display_data = get_display_data(flatData)
+    const filteredData = filter_data_mp(json_full_mps, filter_state)
+    const flatData = flatten_data(filteredData)
+    const display_data = get_display_data(flatData)  
 
   return (
     <>
       <Header />
-      <Filter data={stateData} setFilterFotState={setFilter_state} />
+      <Filter data={stateData} fitlerForState={filter_state} setFilterFotState={setFilter_state} />
       <Data data={display_data} />
     </>
   )
@@ -60,7 +62,7 @@ function flatten_data(json_data) {
 
 function get_display_data(json_data) {
   const display_data_arr = json_data.reduce((a, b) => a.concat(b), []).reduce((a, b) => a.concat(b), [])
-                            
+
   // console.log(display_data_arr)
   return display_data_arr
 }
