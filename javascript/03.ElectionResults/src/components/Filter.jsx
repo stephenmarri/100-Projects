@@ -1,18 +1,21 @@
 import React from 'react'
 
 
-const Filter = ({data, fitlerForState, setFilterFotState}) => {
+const Filter = ({data, fitlerForState, setFilterFotState, filterForPower, setFilterForPower}) => {
 
     const updateStateFilter = (event) => {
         setFilterFotState(event.target.value)
+    }
+    const updateFilterForPower = (event) => {
+        setFilterForPower(event.target.value)
     }
     
     return (
         <div id='fitler_container' className='w-full flex flex-row justify-between py-3 px-3'>
 
-            <select className='border border-gray-200 rounded-md' name="cars" id="cars">
-                <option value="MP">MP</option>
-                <option value="MLA">MLA</option>
+            <select  selected={filterForPower} onChange={updateFilterForPower} className='border border-gray-200 rounded-md' name="cars" id="cars">
+                <option value="mp">MP</option>
+                <option value="mla">MLA</option>
             </select>
 
             <select value={fitlerForState} onChange={updateStateFilter} className='border border-gray-200 rounded-md' name="cars" id="cars">

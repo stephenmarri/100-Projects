@@ -12,34 +12,46 @@ import json_full_mla from './assets/eci_mla_data.json';
 export default function App() {
 
   const stateData = json_full_mps.map(x => Object.keys(x)[0])
+  const stateData_mla = Object.entries(json_full_mla).map(([key, value]) => key)
   const [filter_power, setFilter_power] = useState('mp'); // mp or mla
   const [filter_state, setFilter_state] = useState('All'); // 29 states and 7 UTs
+  const [filter_state_mla, setFilter_state_mla] = useState('All');
 
 
-  console.log(`Curret filter: ${filter_state}`)
-  console.log(`Curret power: ${filter_power}`)
+  let display_data = null
 
-  // const flatDataMla = flatten_data_mla(json_full_mla)
-  
-  const base_data = filter_power == 'mp' ?  json_full_mps : json_full_mla
- 
+
+  const base_data = filter_power == 'mp' ? json_full_mps : json_full_mla
+
+  if (filter_power == 'mp') {
     const filteredData = filter_data_mp(base_data, filter_state)
     const flatData = flatten_data_mp(filteredData)
-    const display_data = get_display_data_mp(flatData)  
+    display_data = get_display_data_mp(flatData)
+  } else {
+    const filterDataMla = filter_state_mla == 'All' ? json_full_mla : Object.entries(json_full_mla).filter(([key, value]) => key == filter_state_mla)
+    const sortedDataMla =  sortObjectOfArrays(filterDataMla)
+    const flatDataMla = flatten_data_mla(sortedDataMla)
+    display_data = get_display_data_mp(flatDataMla)
+  }
 
+  const display_states = filter_power == 'mp' ? stateData : stateData_mla
+  const display_filter_state = filter_power == 'mp' ? filter_state : filter_state_mla
+  const display_setFilterFunc = filter_power == 'mp' ? setFilter_state : setFilter_state_mla
+
+  console.log(`Selections are - Power: ${filter_power}, State: ${display_filter_state}`)
 
   return (
     <>
       <Header />
-      <Filter data={stateData} fitlerForState={filter_state} setFilterFotState={setFilter_state} />
+      <Filter data={display_states} fitlerForState={display_filter_state} setFilterFotState={display_setFilterFunc} filterForPower={filter_power} setFilterForPower={setFilter_power} />
       <Data data={display_data} />
     </>
   )
 }
 
 
-function flatten_data_mla(json_data){
-  let flat_mla = Object.entries(json_data).reduce((avalue,[bkey, bvalue]) => avalue.concat(bvalue),[])
+function flatten_data_mla(json_data) {
+  let flat_mla = Object.entries(json_data).reduce((avalue, [bkey, bvalue]) => avalue.concat(bvalue), [])
   return flat_mla
 }
 
@@ -73,4 +85,16 @@ function get_display_data_mp(json_data) {
 
   // console.log(display_data_arr)
   return display_data_arr
+}
+
+function sortObjectOfArrays(obj) {
+  const newObj = obj;
+
+  Object.keys(newObj).forEach(key => {
+    newObj[key].sort((a, b) => {
+      return a["data_const_number"] - b["data_const_number"]
+    });
+  });
+  console.log(newObj)
+  return newObj
 }
