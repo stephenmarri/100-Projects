@@ -37,6 +37,7 @@ body {
 
   table {
     width: 100%;
+    max-height: 84vh;
     background-color: var(--secondary-bg-color);
     border-collapse: collapse;
     table-layout: fixed;
@@ -53,7 +54,7 @@ body {
   tbody {
     display: block;
     overflow-y: scroll;
-    max-height: 78vh; /* Adjust based on header height and footer height */
+    max-height: 80vh; 
     width: 100%;
   }
 
