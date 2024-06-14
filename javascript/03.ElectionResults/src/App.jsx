@@ -122,13 +122,24 @@ function capitalizeWords(str) {
   }).join(' ');
 }
 
+const replacementDict = {
+  "Bharatiya Janata Party": "BJP",
+  "Yuvajana Sramika Rythu Congress Party": "YSRCP",
+  "Indian National Congress": "INC",
+  "Telugu Desam": "TDP"
+};
+
+function repl(value){
+  return replacementDict[value] || value
+}
+
 function transform_mp(data) {
   const newData = data.map(state => {
     const newState = {};
     Object.entries(state).forEach(([stateName, constituencies]) => {
       newState[stateName] = constituencies.map(each => {
         return Object.entries(each).reduce((acc, [key, value]) => {
-          acc[key] = capitalizeWords(value);
+          acc[key] = repl(capitalizeWords(value));
           return acc;
         }, {});
       });
@@ -142,8 +153,8 @@ function transform_mla(data){
     const newState = {};
     Object.entries(data).forEach(([stateName, constituencies]) => {
       newState[stateName] = constituencies.map( each => {
-        return Object.entries(each).reduce((acc, [key, vlaue]) => {
-          acc[key] = capitalizeWords(vlaue);
+        return Object.entries(each).reduce((acc, [key, value]) => {
+          acc[key] = repl(capitalizeWords(value));
           return acc
         }, {} );
       })
