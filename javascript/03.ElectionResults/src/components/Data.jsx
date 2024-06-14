@@ -8,10 +8,10 @@ const Data = ({ data }) => {
             <table className="">
                 <thead className='fc'>
                     <tr className='text-left'>
-                        <th className=' ps-1 w-1/10'>#</th>
-                        <th className=' ps-1 w-0155'>Const.</th>
-                        <th className=' ps-1 w-2/6' >Elected</th>
-                        <th className=' ps-1 w-2/6' >Party</th>
+                        <th style={{width: '8%'}}   className=' ps-1'>#</th>
+                        <th style={{width: '26%'}}  className=' ps-1'>Const.</th>
+                        <th style={{width: '33%'}}  className=' ps-1'>Elected</th>
+                        <th style={{width: '33%'}}  className=' ps-1'>Party</th>
                     </tr>
                 </thead>
                 
@@ -19,7 +19,7 @@ const Data = ({ data }) => {
                 {
                     data.map((constituency, index) => {
                         return <tr className='border-b border-t' key={`${index}`}>
-                            <td style={{width: '8%'}} className='ps-1 '>{constituency.data_const_number}</td>
+                            <td style={{width: '8%'}}  className='ps-1 '>{constituency.data_const_number}</td>
                             <td style={{width: '26%'}} className='ps-1 '>{constituency.data_constituency}</td>
                             <td style={{width: '33%'}} className='ps-1 '>{constituency.data_leading_candidate}</td>
                             <td style={{width: '33%'}} className='ps-1 '>{constituency.data_leading_party}</td>

@@ -104,11 +104,22 @@ function sortObjectOfArrays(obj) {
   return newObj
 }
 
-function capitalizeWords(string) {
-  return string.split(/(?<=\.|\s)/).map(word => {
-    if (word.trim() === '') return word; // Preserve empty strings (e.g., between parenthesis)
-    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
-  }).join('');
+function capitalizeWords(str) {
+  return str.toLowerCase().split(' ').map(word => {
+    if (word.includes('(') && word.includes(')')) {
+      // Capitalize the content inside parentheses as well
+      return word.split(/([()])/).map(subWord => {
+        if (subWord === '(' || subWord === ')') {
+          return subWord;
+        } else {
+          return subWord.split('.').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('.');
+        }
+      }).join('');
+    } else {
+      // Capitalize normal words
+      return word.split('.').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('.');
+    }
+  }).join(' ');
 }
 
 function transform_mp(data) {
@@ -128,7 +139,6 @@ function transform_mp(data) {
 }
 
 function transform_mla(data){
-  console.log(data)
     const newState = {};
     Object.entries(data).forEach(([stateName, constituencies]) => {
       newState[stateName] = constituencies.map( each => {
@@ -138,6 +148,5 @@ function transform_mla(data){
         }, {} );
       })
     })
-    console.log(newState)
     return newState
 }
