@@ -20,8 +20,9 @@ export default function App() {
 
   let display_data = null
   let tranformed_mps = transform_mp(json_full_mps)
+  let transformed_mlas =transform_mla(json_full_mla)
 
-  const base_data = filter_power == 'mp' ? tranformed_mps : json_full_mla
+  const base_data = filter_power == 'mp' ? tranformed_mps : transformed_mlas
 
   if (filter_power == 'mp') {
     const filteredData = filter_data_mp(base_data, filter_state)
@@ -29,7 +30,7 @@ export default function App() {
     display_data = get_display_data_mp(flatData)
     display_data = filter_state == 'All' ? display_data : display_data.sort((a,b) => a["data_const_number"] - b["data_const_number"])
   } else {
-    const filterDataMla = filter_state_mla == 'All' ? json_full_mla : Object.entries(json_full_mla).filter(([key, value]) => key == filter_state_mla)
+    const filterDataMla = filter_state_mla == 'All' ? base_data : Object.entries(base_data).filter(([key, value]) => key == filter_state_mla)
     // const sortedDataMla =  sortObjectOfArrays(filterDataMla)
     const flatDataMla = flatten_data_mla(filterDataMla)
     display_data = get_display_data_mp(flatDataMla)
@@ -123,7 +124,20 @@ function transform_mp(data) {
     });
     return newState;
   });
-
-  console.log(newData);
   return newData
+}
+
+function transform_mla(data){
+  console.log(data)
+    const newState = {};
+    Object.entries(data).forEach(([stateName, constituencies]) => {
+      newState[stateName] = constituencies.map( each => {
+        return Object.entries(each).reduce((acc, [key, vlaue]) => {
+          acc[key] = capitalizeWords(vlaue);
+          return acc
+        }, {} );
+      })
+    })
+    console.log(newState)
+    return newState
 }
