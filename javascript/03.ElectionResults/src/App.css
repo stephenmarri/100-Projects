@@ -42,6 +42,7 @@ body {
       position: fixed;
       height: 100vh;
       overflow: auto;
+      table-layout: fixed;
     }
 
     thead {
@@ -56,8 +57,27 @@ body {
 
     }
 
-    tbody, t{
-      width: 100%;
+
+    th, td {
+      /* width: 25%; Adjust based on the number of columns */
+      word-wrap: break-word; /* Allows long words to be broken and wrap to the next line */
+      white-space: normal; /* Normal white-space behavior with wrapping */
+      overflow-wrap: break-word; /* Breaks long words if they overflow */
+      word-break: break-all; /* Breaks long words if they overflow */
+      padding-right: 2px;
     }
+
+    tr {
+      display: table;
+      width: 100%;
+      table-layout: fixed; /* Ensures the columns are of equal width */
+    }
+  }
+}
+
+
+@media screen and (min-width: 760px) {
+  body {
+    
   }
 }
