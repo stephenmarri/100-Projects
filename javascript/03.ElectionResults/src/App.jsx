@@ -17,6 +17,8 @@ export default function App() {
   const [filter_power, setFilter_power] = useState('mp'); // mp or mla
   const [filter_state, setFilter_state] = useState('All'); // 29 states and 7 UTs
   const [filter_state_mla, setFilter_state_mla] = useState('All');
+  const [serachTerm, setserachTerm] = useState('');
+  
 
   let display_data = null
   let tranformed_mps = transform_mp(json_full_mps)
@@ -28,26 +30,31 @@ export default function App() {
     const filteredData = filter_data_mp(base_data, filter_state)
     const flatData = flatten_data_mp(filteredData)
     display_data = get_display_data_mp(flatData)
-    display_data = filter_state == 'All' ? display_data : display_data.sort((a,b) => a["data_const_number"] - b["data_const_number"])
+    // display_data = filter_state == 'All' ? display_data : display_data.sort((a,b) => a["data_const_number"] - b["data_const_number"])
+    display_data = filter_state == 'All' ? display_data : display_data.sort((a,b) => a["data_constituency"] - b["data_constituency"])
   } else {
     const filterDataMla = filter_state_mla == 'All' ? base_data : Object.entries(base_data).filter(([key, value]) => key == filter_state_mla)
     // const sortedDataMla =  sortObjectOfArrays(filterDataMla)
     const flatDataMla = flatten_data_mla(filterDataMla)
     display_data = get_display_data_mp(flatDataMla)
-    display_data = filter_state_mla == 'All' ? display_data : display_data.sort((a,b) => a["data_const_number"] - b["data_const_number"])
+    // display_data = filter_state_mla == 'All' ? display_data : display_data.sort((a,b) => a["data_const_number"] - b["data_const_number"])
+    display_data = filter_state_mla == 'All' ? display_data : display_data.sort((a,b) => a["data_constituency"] - b["data_constituency"])
+
   }
 
   const display_states = filter_power == 'mp' ? stateData : stateData_mla
   const display_filter_state = filter_power == 'mp' ? filter_state : filter_state_mla
   const display_setFilterFunc = filter_power == 'mp' ? setFilter_state : setFilter_state_mla
 
+  const searchedData = searchData(display_data, serachTerm)
+
   console.log(`Selections are - Power: ${filter_power}, State: ${display_filter_state}`)
 
   return (
     <>
       <Header />
-      <Filter data={display_states} fitlerForState={display_filter_state} setFilterFotState={display_setFilterFunc} filterForPower={filter_power} setFilterForPower={setFilter_power} />
-      <Data data={display_data} />
+      <Filter data={display_states} fitlerForState={display_filter_state} setFilterFotState={display_setFilterFunc} filterForPower={filter_power} setFilterForPower={setFilter_power} setSearchTerm={setserachTerm}/>
+      <Data data={searchedData} />
       <Footer />
     </>
   )
@@ -161,4 +168,16 @@ function transform_mla(data){
       })
     })
     return newState
+}
+
+function searchData(data, searchTerm){    
+
+    const newData = data.filter(x =>{
+        const constName = String(x["data_constituency"]).toLocaleLowerCase().replace(" ","")
+        const constPerson = String(x["data_leading_candidate"]).toLocaleLowerCase().replace(" ","")
+        const newfilter = String(searchTerm).toLocaleLowerCase().replace(/ /g,"")
+        console.log(constName, constPerson, newfilter)
+        return constName.includes(newfilter) || constPerson.includes(newfilter)        
+    })
+    return newData
 }

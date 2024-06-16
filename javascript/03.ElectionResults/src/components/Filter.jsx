@@ -1,13 +1,16 @@
 import React from 'react'
 
 
-const Filter = ({data, fitlerForState, setFilterFotState, filterForPower, setFilterForPower}) => {
+const Filter = ({data, fitlerForState, setFilterFotState, filterForPower, setFilterForPower, setSearchTerm}) => {
 
     const updateStateFilter = (event) => {
         setFilterFotState(event.target.value)
     }
     const updateFilterForPower = (event) => {
         setFilterForPower(event.target.value)
+    }
+    const updateSearchTerm = (event) => {
+        setSearchTerm(event.target.value)
     }
     
     return (
@@ -27,7 +30,7 @@ const Filter = ({data, fitlerForState, setFilterFotState, filterForPower, setFil
                 }                
             </select>
 
-            <input style={{width: '35%'}} className='border border-gray-200 px-2 rounded-md' type="text" name="filter" id="filter" placeholder='Search' />
+            <input style={{width: '35%'}} onChange={updateSearchTerm}  className='border border-gray-200 px-2 rounded-md' type="text" name="filter" id="filter" placeholder='Search' />
         </div>
     )
 }

@@ -6,4 +6,4 @@
 - [x] sort increasingly for state wise data
 - [ ] Add search functionality
 - [x] Capitalize the data sets
-- [ ] Sort alphabetically
+- [x] Sort alphabetically
