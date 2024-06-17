@@ -9,6 +9,7 @@
 
 body {
   background-color: var(--primary-bg-color);
+  background-color: #9B86BD;
   height: 100%;
   min-width: 400px;
 
@@ -16,6 +17,7 @@ body {
   #header_container {
     height: 6vh;
     color: #0A1C33;
+    color: white;
     font-size: 5rem !important;
   }
 
@@ -25,6 +27,7 @@ body {
     height: 4vh;
     width: 100%;
     background-color: var(--primary-bg-color);
+    background-color: #9B86BD;
  
     font-size: 1.15rem !important;
     border-bottom: 1px solid black !important;
@@ -68,7 +71,7 @@ body {
   tbody {
     display: block;
     overflow-y: scroll;
-    max-height: 82vh; 
+    max-height: 83vh; 
     width: 100%;
   }
 
@@ -90,6 +93,7 @@ body {
 
   #footer_container {
     height: 4vh;
+    color: #fff;
     width: 100vw;
     border-top: 1px solid orange;
   }
@@ -102,5 +106,9 @@ body {
       padding-top: 2px;
       padding-bottom: 2px;
     }
+  }
+
+  #footer_container{
+    font-size: 1.15rem;
   }
 }
