@@ -1,1 +1,1 @@
-![Demo](/javascript/1.TicTacToe/TicTacToe/public/demo.gif)
+![Live Link](./public/demo.gif)

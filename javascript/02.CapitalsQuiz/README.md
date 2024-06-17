@@ -1,1 +1,1 @@
-![Demo](/javascript/2.CapitalsQuiz/public/demo.gif)
+![Live Link](./public/demo.gif)
