@@ -14,9 +14,9 @@ const Filter = ({data, fitlerForState, setFilterFotState, filterForPower, setFil
     }
     
     return (
-        <div id='fitler_container' className='w-full flex flex-row justify-between py-1 px-3'>
+        <div id='fitler_container' className='w-full flex flex-row justify-between items-center px-3'>
 
-            <div style={{width: '60%'}} className='flex flex-row justify-start'>
+            <div style={{width: '60%'}} className='flex flex-row justify-start items-center'>
                 <select style={{width: '25%'}} selected={filterForPower} onChange={updateFilterForPower} className='border border-gray-200 rounded-md' name="cars" id="cars">
                     <option value="mp">MP</option>
                     <option value="mla">MLA</option>
