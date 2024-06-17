@@ -15,7 +15,7 @@ export default function App() {
   const stateData = json_full_mps.map(x => Object.keys(x)[0])
   const stateData_mla = Object.entries(json_full_mla).map(([key, value]) => key)
   const [filter_power, setFilter_power] = useState('mp'); // mp or mla
-  const [filter_state, setFilter_state] = useState('All'); // 29 states and 7 UTs
+  const [filter_state, setFilter_state] = useState('Andhra Pradesh'); // 29 states and 7 UTs
   const [filter_state_mla, setFilter_state_mla] = useState('All');
   const [serachTerm, setserachTerm] = useState('');
   

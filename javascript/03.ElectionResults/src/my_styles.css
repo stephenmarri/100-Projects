@@ -10,6 +10,8 @@ html {
   width: 100vw;
   font-size: 12px;
   font-family: BaseFont;
+  min-width: 400px;
+  overflow-x: auto !important;
 }
 
 /* TODO FONTS */

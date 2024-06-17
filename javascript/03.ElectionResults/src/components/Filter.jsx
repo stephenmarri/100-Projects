@@ -14,23 +14,24 @@ const Filter = ({data, fitlerForState, setFilterFotState, filterForPower, setFil
     }
     
     return (
-        <div id='fitler_container' className='w-full flex flex-row justify-between py-3 px-3'>
+        <div id='fitler_container' className='w-full flex flex-row justify-between py-1 px-3'>
 
-            <select style={{width: '15%'}} selected={filterForPower} onChange={updateFilterForPower} className='border border-gray-200 rounded-md' name="cars" id="cars">
-                <option value="mp">MP</option>
-                <option value="mla">MLA</option>
-            </select>
+            <div style={{width: '60%'}} className='flex flex-row justify-start'>
+                <select style={{width: '25%'}} selected={filterForPower} onChange={updateFilterForPower} className='border border-gray-200 rounded-md' name="cars" id="cars">
+                    <option value="mp">MP</option>
+                    <option value="mla">MLA</option>
+                </select>
+                <select style={{width: '60%'}} value={fitlerForState} onChange={updateStateFilter} className='border border-gray-200 rounded-md ms-2' name="cars" id="cars">
+                <option key='0' value="All">All</option>
+                    {
+                        data.map((x, idx) => {
+                            return <option key={idx} value={x}>{x}</option>
+                        })
+                    }
+                </select>
+            </div>
 
-            <select style={{width: '40%'}} value={fitlerForState} onChange={updateStateFilter} className='border border-gray-200 rounded-md' name="cars" id="cars">
-            <option key='0' value="All">All</option>
-                {
-                    data.map((x, idx) => {
-                        return <option key={idx} value={x}>{x}</option>
-                    })
-                }                
-            </select>
-
-            <input style={{width: '35%'}} onChange={updateSearchTerm}  className='border border-gray-200 px-2 rounded-md' type="text" name="filter" id="filter" placeholder='Search' />
+            <input style={{width: '40%'}} onChange={updateSearchTerm}  className='border border-gray-200 px-2 rounded-md' type="text" name="filter" id="filter" placeholder='Search' />
         </div>
     )
 }
