@@ -9,7 +9,7 @@
 
 body {
   background-color: var(--primary-bg-color);
-  background-color: #5A639C;
+  background-color: #9B86BD;
   height: 100%;
   min-width: 400px;
 
@@ -19,6 +19,7 @@ body {
     color: #0A1C33;
     color: white;
     font-size: 5rem !important;
+    border-bottom: px solid #4a3075;
   }
 
  
@@ -27,8 +28,8 @@ body {
     height: 4vh;
     width: 100%;
     /* background-color: var(--primary-bg-color); */
-    /* background-color: #9B86BD; */
-    background-color: #7776B3;
+    background-color: #9B86BD;
+    /* background-color: #7776B3; */
  
     font-size: 1.15rem !important;
     border-bottom: 1px solid black !important;
