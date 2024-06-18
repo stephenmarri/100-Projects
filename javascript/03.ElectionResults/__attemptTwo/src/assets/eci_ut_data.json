@@ -1,0 +1,167 @@
+[
+    {
+        "Andaman & Nicobar Islands": [
+            {
+                "data_constituency": "Andaman & Nicobar Islands",
+                "data_const_number": "1",
+                "data_leading_candidate": "BISHNU PADA RAY",
+                "data_margin": "24396",
+                "data_leading_party": "Bharatiya Janata Party"
+            }
+        ]
+    },
+    {
+        "Chandigarh": [
+            {
+                "data_constituency": "Chandigarh",
+                "data_const_number": "1",
+                "data_leading_candidate": "MANISH TEWARI",
+                "data_margin": "2504",
+                "data_leading_party": "Indian National Congress"
+            }
+        ]
+    },
+    {
+        "Dadra & Nagar Haveli and Daman & Diu": [
+            {
+                "data_constituency": "Dadar & Nagar Haveli",
+                "data_const_number": "2",
+                "data_leading_candidate": "DELKAR KALABEN MOHANBHAI",
+                "data_margin": "57584",
+                "data_leading_party": "Bharatiya Janata Party"
+            },
+            {
+                "data_constituency": "Daman & Diu",
+                "data_const_number": "1",
+                "data_leading_candidate": "PATEL UMESHBHAI BABUBHAI",
+                "data_margin": "6225",
+                "data_leading_party": "Independent"
+            }
+        ]
+    },
+    {
+        "NCT OF Delhi": [
+            {
+                "data_constituency": "Chandni Chowk",
+                "data_const_number": "1",
+                "data_leading_candidate": "PRAVEEN KHANDELWAL",
+                "data_margin": "89325",
+                "data_leading_party": "Bharatiya Janata Party"
+            },
+            {
+                "data_constituency": "East Delhi",
+                "data_const_number": "3",
+                "data_leading_candidate": "HARSH MALHOTRA",
+                "data_margin": "93663",
+                "data_leading_party": "Bharatiya Janata Party"
+            },
+            {
+                "data_constituency": "New Delhi",
+                "data_const_number": "4",
+                "data_leading_candidate": "BANSURI SWARAJ",
+                "data_margin": "78370",
+                "data_leading_party": "Bharatiya Janata Party"
+            },
+            {
+                "data_constituency": "North-East Delhi",
+                "data_const_number": "2",
+                "data_leading_candidate": "MANOJ TIWARI",
+                "data_margin": "138778",
+                "data_leading_party": "Bharatiya Janata Party"
+            },
+            {
+                "data_constituency": "North-West Delhi",
+                "data_const_number": "5",
+                "data_leading_candidate": "YOGENDER CHANDOLIYA",
+                "data_margin": "290849",
+                "data_leading_party": "Bharatiya Janata Party"
+            },
+            {
+                "data_constituency": "South Delhi",
+                "data_const_number": "7",
+                "data_leading_candidate": "RAMVIR SINGH BIDHURI",
+                "data_margin": "124333",
+                "data_leading_party": "Bharatiya Janata Party"
+            },
+            {
+                "data_constituency": "West Delhi",
+                "data_const_number": "6",
+                "data_leading_candidate": "KAMALJEET SEHRAWAT",
+                "data_margin": "199013",
+                "data_leading_party": "Bharatiya Janata Party"
+            }
+        ]
+    },
+    {
+        "Lakshadweep": [
+            {
+                "data_constituency": "Lakshadweep",
+                "data_const_number": "1",
+                "data_leading_candidate": "MUHAMMED HAMDULLAH SAYEED",
+                "data_margin": "2647",
+                "data_leading_party": "Indian National Congress"
+            }
+        ]
+    },
+    {
+        "Puducherry": [
+            {
+                "data_constituency": "PUDUCHERRY",
+                "data_const_number": "1",
+                "data_leading_candidate": "VE VAITHILINGAM",
+                "data_margin": "136516",
+                "data_leading_party": "Indian National Congress"
+            }
+        ]
+    },
+    {
+        "Jammu and Kashmir": [
+            {
+                "data_constituency": "ANANTNAG-RAJOURI",
+                "data_const_number": "3",
+                "data_leading_candidate": "MIAN ALTAF AHMAD",
+                "data_margin": "281794",
+                "data_leading_party": "Jammu & Kashmir National Conference"
+            },
+            {
+                "data_constituency": "BARAMULLA",
+                "data_const_number": "1",
+                "data_leading_candidate": "ABDUL RASHID SHEIKH",
+                "data_margin": "204142",
+                "data_leading_party": "Independent"
+            },
+            {
+                "data_constituency": "JAMMU",
+                "data_const_number": "5",
+                "data_leading_candidate": "JUGAL KISHORE",
+                "data_margin": "135498",
+                "data_leading_party": "Bharatiya Janata Party"
+            },
+            {
+                "data_constituency": "SRINAGAR",
+                "data_const_number": "2",
+                "data_leading_candidate": "AGA SYED RUHULLAH MEHDI",
+                "data_margin": "188416",
+                "data_leading_party": "Jammu & Kashmir National Conference"
+            },
+            {
+                "data_constituency": "UDHAMPUR",
+                "data_const_number": "4",
+                "data_leading_candidate": "DR JITENDRA SINGH",
+                "data_margin": "124373",
+                "data_leading_party": "Bharatiya Janata Party"
+            }
+        ]
+    },
+    {
+        "Ladakh": [
+            {
+                "data_constituency": "Ladakh",
+                "data_const_number": "1",
+                "data_leading_candidate": "MOHMAD HANEEFA",
+                "data_margin": "27862",
+                "data_leading_party": "Independent"
+            }
+        ]
+    }
+]

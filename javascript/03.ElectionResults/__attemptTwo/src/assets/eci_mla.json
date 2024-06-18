@@ -1,0 +1,2908 @@
+{
+  "Andhra Pradesh": [
+    {
+      "data_constituency": "Achanta",
+      "data_const_number": "56",
+      "data_leading_candidate": "SATYANARAYANA PITHANI",
+      "data_margin": "26554",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Addanki",
+      "data_const_number": "105",
+      "data_leading_candidate": "GOTTIPATI RAVI KUMAR",
+      "data_margin": "24890",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Adoni",
+      "data_const_number": "146",
+      "data_leading_candidate": "DR. PARTHA SARATHI VALMIKI",
+      "data_margin": "18164",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Allagadda",
+      "data_const_number": "134",
+      "data_leading_candidate": "AKHILA PRIYA BHUMA",
+      "data_margin": "12037",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Alur",
+      "data_const_number": "147",
+      "data_leading_candidate": "B. VIRUPAKSHI",
+      "data_margin": "2831",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Amadalavalasa",
+      "data_const_number": "6",
+      "data_leading_candidate": "KOONA RAVI KUMAR",
+      "data_margin": "35032",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Amalapuram",
+      "data_const_number": "44",
+      "data_leading_candidate": "AITHABATHULA ANANDARAO",
+      "data_margin": "38628",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Anakapalle",
+      "data_const_number": "30",
+      "data_leading_candidate": "KONATHALA RAMAKRISHNA",
+      "data_margin": "65764",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Anantapur Urban",
+      "data_const_number": "153",
+      "data_leading_candidate": "DAGGUPATI PRASAD",
+      "data_margin": "23023",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Anaparthy",
+      "data_const_number": "40",
+      "data_leading_candidate": "RAMAKRISHNA REDDY NALLAMILLI",
+      "data_margin": "20850",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Araku Valley",
+      "data_const_number": "28",
+      "data_leading_candidate": "REGAM MATYALINGAM",
+      "data_margin": "31877",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Atmakur",
+      "data_const_number": "115",
+      "data_leading_candidate": "ANAM.RAMANARAYANA REDDY",
+      "data_margin": "7576",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Avanigadda",
+      "data_const_number": "76",
+      "data_leading_candidate": "BUDDHAPRASAD MANDALI",
+      "data_margin": "46434",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Badvel",
+      "data_const_number": "124",
+      "data_leading_candidate": "DASARI SUDHA",
+      "data_margin": "18567",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Banaganapalle",
+      "data_const_number": "140",
+      "data_leading_candidate": "B.C. JANARDHAN REDDY",
+      "data_margin": "25566",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Bapatla",
+      "data_const_number": "92",
+      "data_leading_candidate": "VEGESANA NARENDRA VARMA RAJU",
+      "data_margin": "27768",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Bhimavaram",
+      "data_const_number": "59",
+      "data_leading_candidate": "RAMANJANEYULU PULAPARTHI (ANJIBABU)",
+      "data_margin": "66974",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Bhimili",
+      "data_const_number": "20",
+      "data_leading_candidate": "GANTA SRINIVASA RAO",
+      "data_margin": "92401",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Bobbili",
+      "data_const_number": "14",
+      "data_leading_candidate": "R.V.S.K.K.RANGA RAO @ BABYNAYANA",
+      "data_margin": "44648",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Chandragiri",
+      "data_const_number": "166",
+      "data_leading_candidate": "VENKATA MANI PRASAD PULLIVARTHI",
+      "data_margin": "43852",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Cheepurupalle",
+      "data_const_number": "15",
+      "data_leading_candidate": "KALAVENKATARAO KIMIDI",
+      "data_margin": "11971",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Chilakaluripet",
+      "data_const_number": "96",
+      "data_leading_candidate": "PRATHIPATI PULLARAO",
+      "data_margin": "33262",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Chintalapudi",
+      "data_const_number": "68",
+      "data_leading_candidate": "ROSHAN KUMAR SONGA",
+      "data_margin": "27766",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Chirala",
+      "data_const_number": "106",
+      "data_leading_candidate": "MADDULURI MALA KONDAIAH",
+      "data_margin": "20984",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Chittoor",
+      "data_const_number": "172",
+      "data_leading_candidate": "GURAJALA JAGAN MOHAN (GJM)",
+      "data_margin": "14604",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Chodavaram",
+      "data_const_number": "26",
+      "data_leading_candidate": "SURYA NAGA SANYASI RAJU KALIDINDI",
+      "data_margin": "42189",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Darsi",
+      "data_const_number": "103",
+      "data_leading_candidate": "BUCHEPALLI SIVA PRASAD REDDY",
+      "data_margin": "2456",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Denduluru",
+      "data_const_number": "64",
+      "data_leading_candidate": "CHINTAMANENI PRABHAKAR",
+      "data_margin": "26266",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Dharmavaram",
+      "data_const_number": "160",
+      "data_leading_candidate": "SATYA KUMAR YADAV",
+      "data_margin": "3734",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Dhone",
+      "data_const_number": "141",
+      "data_leading_candidate": "KOTLA JAYA SURYA PRAKASH REDDY",
+      "data_margin": "6049",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Eluru",
+      "data_const_number": "65",
+      "data_leading_candidate": "RADHA KRISHNAYYA BADETI",
+      "data_margin": "62388",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Etcherla",
+      "data_const_number": "7",
+      "data_leading_candidate": "ESWARA RAO NADUKUDITI",
+      "data_margin": "29089",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Gajapathinagaram",
+      "data_const_number": "16",
+      "data_leading_candidate": "KONDAPALLI SRINIVAS",
+      "data_margin": "25301",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Gajuwaka",
+      "data_const_number": "25",
+      "data_leading_candidate": "PALLA SRINIVAS RAO",
+      "data_margin": "95235",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Gangadhara Nellore (SC)",
+      "data_const_number": "171",
+      "data_leading_candidate": "DR. VM. THOMAS",
+      "data_margin": "26011",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Gannavaram",
+      "data_const_number": "71",
+      "data_leading_candidate": "YARLAGADDA VENKATA RAO",
+      "data_margin": "37628",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Gannavaram(SC)",
+      "data_const_number": "46",
+      "data_leading_candidate": "GIDDI. SATYANARAYANA",
+      "data_margin": "33367",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Giddalur",
+      "data_const_number": "112",
+      "data_leading_candidate": "ASHOK REDDY MUTHUMULA",
+      "data_margin": "973",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Gopalapuram",
+      "data_const_number": "66",
+      "data_leading_candidate": "MADDIPATI VENKATA RAJU",
+      "data_margin": "26784",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Gudivada",
+      "data_const_number": "72",
+      "data_leading_candidate": "VENIGANDLA RAMU",
+      "data_margin": "53040",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Gudur",
+      "data_const_number": "120",
+      "data_leading_candidate": "PASIM SUNIL KUMAR",
+      "data_margin": "21192",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Guntakal",
+      "data_const_number": "150",
+      "data_leading_candidate": "GUMMANUR JAYARAM",
+      "data_margin": "6826",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Guntur East",
+      "data_const_number": "95",
+      "data_leading_candidate": "MOHAMMED NASEER AHMED",
+      "data_margin": "31962",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Guntur West",
+      "data_const_number": "94",
+      "data_leading_candidate": "GALLA MADHAVI",
+      "data_margin": "51150",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Gurajala",
+      "data_const_number": "100",
+      "data_leading_candidate": "YARAPATHINENI SRINIVASA RAO",
+      "data_margin": "29486",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Hindupur",
+      "data_const_number": "157",
+      "data_leading_candidate": "NANDAMURI BALAKRISHNA",
+      "data_margin": "32597",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Ichchapuram",
+      "data_const_number": "1",
+      "data_leading_candidate": "ASHOK BENDALAM",
+      "data_margin": "39783",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Jaggampeta",
+      "data_const_number": "52",
+      "data_leading_candidate": "JYOTHULA NEHRU",
+      "data_margin": "52676",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Jaggayyapeta",
+      "data_const_number": "84",
+      "data_leading_candidate": "RAJAGOPAL SREERAM (TATAIAH)",
+      "data_margin": "15977",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Jammalamadugu",
+      "data_const_number": "131",
+      "data_leading_candidate": "ADINARAYANA REDDY CHADIPIRALA",
+      "data_margin": "17191",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kadapa",
+      "data_const_number": "126",
+      "data_leading_candidate": "MADHAVI REDDAPPA GARI",
+      "data_margin": "18860",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kadiri",
+      "data_const_number": "161",
+      "data_leading_candidate": "KANDIKUNTA VENKATA PRASAD",
+      "data_margin": "6265",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kaikalur",
+      "data_const_number": "73",
+      "data_leading_candidate": "KAMINENI SRINIVAS",
+      "data_margin": "45273",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kakinada City",
+      "data_const_number": "41",
+      "data_leading_candidate": "VANAMADI VENKATESWARA RAO @ KONDABABU",
+      "data_margin": "56572",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kakinada Rural",
+      "data_const_number": "38",
+      "data_leading_candidate": "PANTAM VENKATESWARA RAO (PANTAM NANAJI)",
+      "data_margin": "72040",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Kalyandurg",
+      "data_const_number": "154",
+      "data_leading_candidate": "AMILINENI SURENDRA BABU",
+      "data_margin": "37734",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kamalapuram",
+      "data_const_number": "130",
+      "data_leading_candidate": "KRISHNA CHAITANYA REDDY PUTHA",
+      "data_margin": "25357",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kandukur",
+      "data_const_number": "109",
+      "data_leading_candidate": "INTURI NAGESWARA RAO",
+      "data_margin": "18558",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kanigiri",
+      "data_const_number": "113",
+      "data_leading_candidate": "DR. UGRA NARASIMHA REDDY MUKKU",
+      "data_margin": "14604",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kavali",
+      "data_const_number": "114",
+      "data_leading_candidate": "DAGUMATI VENKATA KRISHNA REDDY",
+      "data_margin": "30948",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kodumur (SC)",
+      "data_const_number": "143",
+      "data_leading_candidate": "BOGGULA DASTAGIRI",
+      "data_margin": "21583",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kodur (SC)",
+      "data_const_number": "127",
+      "data_leading_candidate": "ARAVA SREEDHAR",
+      "data_margin": "11101",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Kondapi (SC)",
+      "data_const_number": "110",
+      "data_leading_candidate": "DOCTOR DOLA SREE BALA VEERANJANEYA SWAMY",
+      "data_margin": "24756",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kothapeta",
+      "data_const_number": "47",
+      "data_leading_candidate": "BANDARU SATYANANDA RAO",
+      "data_margin": "56479",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kovur",
+      "data_const_number": "116",
+      "data_leading_candidate": "PRASHANTHI REDDY VEMIREDDY",
+      "data_margin": "54583",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kovvur",
+      "data_const_number": "54",
+      "data_leading_candidate": "MUPPIDI VENKATESWARA RAO",
+      "data_margin": "33946",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kuppam",
+      "data_const_number": "175",
+      "data_leading_candidate": "CHANDRABABU NAIDU NARA",
+      "data_margin": "48006",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kurnool",
+      "data_const_number": "137",
+      "data_leading_candidate": "T.G.BHARATH",
+      "data_margin": "18876",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Kurupam",
+      "data_const_number": "11",
+      "data_leading_candidate": "JAGADEESWARI THOYAKA",
+      "data_margin": "23500",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Macherla",
+      "data_const_number": "101",
+      "data_leading_candidate": "JULAKANTI BRAHMANANDA REDDY",
+      "data_margin": "33318",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Machilipatnam",
+      "data_const_number": "75",
+      "data_leading_candidate": "KOLLU. RAVINDRA",
+      "data_margin": "50242",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Madakasira (SC)",
+      "data_const_number": "156",
+      "data_leading_candidate": "M.S.RAJU",
+      "data_margin": "351",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Madanapalle",
+      "data_const_number": "164",
+      "data_leading_candidate": "M.SHAJAHAN BASHA",
+      "data_margin": "5509",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Madugula",
+      "data_const_number": "27",
+      "data_leading_candidate": "BANDARU SATYANARAYANA MURTHY",
+      "data_margin": "28026",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Mandapeta",
+      "data_const_number": "48",
+      "data_leading_candidate": "JOGESWARA RAO.V",
+      "data_margin": "44435",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Mangalagiri",
+      "data_const_number": "87",
+      "data_leading_candidate": "NARA LOKESH",
+      "data_margin": "91413",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Mantralayam",
+      "data_const_number": "145",
+      "data_leading_candidate": "Y. BALANAGI REDDY",
+      "data_margin": "12805",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Markapuram",
+      "data_const_number": "111",
+      "data_leading_candidate": "KANDULA NARAYANA REDDY",
+      "data_margin": "13979",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Mummidivaram",
+      "data_const_number": "43",
+      "data_leading_candidate": "DATLA SUBBARAJU (BUCHIBABU)",
+      "data_margin": "38736",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Mydukur",
+      "data_const_number": "133",
+      "data_leading_candidate": "SUDHAKAR PUTTA",
+      "data_margin": "20950",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Mylavaram",
+      "data_const_number": "82",
+      "data_leading_candidate": "VASANTHA VENKATA KRISHNA PRASAD",
+      "data_margin": "42829",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Nagari",
+      "data_const_number": "170",
+      "data_leading_candidate": "GALI BHANU PRAKASH",
+      "data_margin": "45004",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Nandigama (SC)",
+      "data_const_number": "83",
+      "data_leading_candidate": "TANGIRALA SOWMYA",
+      "data_margin": "27395",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Nandikotkur (SC)",
+      "data_const_number": "136",
+      "data_leading_candidate": "G JAYASURYA",
+      "data_margin": "9792",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Nandyal",
+      "data_const_number": "139",
+      "data_leading_candidate": "NASYAM MOHAMMED FAROOK",
+      "data_margin": "12333",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Narasannapeta",
+      "data_const_number": "8",
+      "data_leading_candidate": "BAGGU RAMANAMURTHY",
+      "data_margin": "29371",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Narasapuram",
+      "data_const_number": "58",
+      "data_leading_candidate": "BOMMIDI NARAYANA NAYAKAR",
+      "data_margin": "49738",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Narasaraopet",
+      "data_const_number": "97",
+      "data_leading_candidate": "ARAVINDA BABU CHADALAVADA",
+      "data_margin": "19705",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Narsipatnam",
+      "data_const_number": "34",
+      "data_leading_candidate": "AYYANNAPATRUDU CHINTAKAYALA",
+      "data_margin": "24676",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Nellimarla",
+      "data_const_number": "17",
+      "data_leading_candidate": "LOKAM NAGA MADHAVI",
+      "data_margin": "39829",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Nellore City",
+      "data_const_number": "117",
+      "data_leading_candidate": "NARAYANA PONGURU",
+      "data_margin": "72489",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Nellore Rural",
+      "data_const_number": "118",
+      "data_leading_candidate": "KOTAMREDDY SRIDHAR REDDY",
+      "data_margin": "34480",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Nidadavole",
+      "data_const_number": "55",
+      "data_leading_candidate": "KANDULA DURGESH",
+      "data_margin": "33304",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Nuzvid",
+      "data_const_number": "70",
+      "data_leading_candidate": "KOLUSU PARTHA SARATHY",
+      "data_margin": "12378",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Ongole",
+      "data_const_number": "108",
+      "data_leading_candidate": "DAMACHARLA JANARDHANA RAO",
+      "data_margin": "34026",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Paderu",
+      "data_const_number": "29",
+      "data_leading_candidate": "MATSYARASA VISWESWARA RAJU",
+      "data_margin": "19338",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Palacole",
+      "data_const_number": "57",
+      "data_leading_candidate": "DR.NIMMALA RAMANAIDU",
+      "data_margin": "67945",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Palakonda",
+      "data_const_number": "10",
+      "data_leading_candidate": "JAYAKRISHNA NIMMAKA",
+      "data_margin": "13291",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Palamaner",
+      "data_const_number": "174",
+      "data_leading_candidate": "AMARANATHA REDDY. N",
+      "data_margin": "20122",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Palasa",
+      "data_const_number": "2",
+      "data_leading_candidate": "GOUTHU SIREESHA",
+      "data_margin": "40350",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pamarru (SC)",
+      "data_const_number": "77",
+      "data_leading_candidate": "KUMAR RAJA VARLA",
+      "data_margin": "29690",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Panyam",
+      "data_const_number": "138",
+      "data_leading_candidate": "GOWRU CHARITHA REDDY",
+      "data_margin": "40591",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Parchur",
+      "data_const_number": "104",
+      "data_leading_candidate": "YELURI SAMBASIVA RAO",
+      "data_margin": "24013",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Parvathipuram",
+      "data_const_number": "12",
+      "data_leading_candidate": "BONELA VIJAYA CHANDRA",
+      "data_margin": "24414",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pathapatnam",
+      "data_const_number": "4",
+      "data_leading_candidate": "MAMIDI GOVINDA RAO",
+      "data_margin": "26527",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pattikonda",
+      "data_const_number": "142",
+      "data_leading_candidate": "K.E. SHYAM KUMAR",
+      "data_margin": "14211",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Payakaraopet",
+      "data_const_number": "33",
+      "data_leading_candidate": "ANITHA VANGALAPUDI",
+      "data_margin": "43727",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pedakurapadu",
+      "data_const_number": "85",
+      "data_leading_candidate": "BHASHYAM PRAVEEN",
+      "data_margin": "21089",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pedana",
+      "data_const_number": "74",
+      "data_leading_candidate": "KAGITHA KRISHNAPRASAD",
+      "data_margin": "38123",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Peddapuram",
+      "data_const_number": "39",
+      "data_leading_candidate": "CHINA RAJAPPA NIMMAKAYALA",
+      "data_margin": "40451",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Penamaluru",
+      "data_const_number": "78",
+      "data_leading_candidate": "BODE PRASAD",
+      "data_margin": "59915",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pendurthi",
+      "data_const_number": "31",
+      "data_leading_candidate": "PANCHAKARLA RAMESH BABU",
+      "data_margin": "81870",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Penukonda",
+      "data_const_number": "158",
+      "data_leading_candidate": "S. SAVITHA",
+      "data_margin": "33388",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pileru",
+      "data_const_number": "163",
+      "data_leading_candidate": "NALLARI KISHAN KUMAR REDDY",
+      "data_margin": "25081",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pithapuram",
+      "data_const_number": "37",
+      "data_leading_candidate": "KONIDALA PAWAN KALYAN",
+      "data_margin": "70279",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Polavaram",
+      "data_const_number": "67",
+      "data_leading_candidate": "CHIRRI BALARAJU",
+      "data_margin": "7935",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Ponnur",
+      "data_const_number": "88",
+      "data_leading_candidate": "DHULIPALLA NARENDRA KUMAR",
+      "data_margin": "32915",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Prathipadu",
+      "data_const_number": "36",
+      "data_leading_candidate": "VARUPULA SATYA PRABHA",
+      "data_margin": "38768",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Prathipadu (SC)",
+      "data_const_number": "93",
+      "data_leading_candidate": "BURLA RAMANJANEYULU",
+      "data_margin": "42015",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Proddatur",
+      "data_const_number": "132",
+      "data_leading_candidate": "NANDYALA VARADA RAJULA REDDY",
+      "data_margin": "22744",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Pulivendla",
+      "data_const_number": "129",
+      "data_leading_candidate": "YS JAGAN MOHAN REDDY",
+      "data_margin": "61687",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Punganur",
+      "data_const_number": "165",
+      "data_leading_candidate": "PEDDIREDDI RAMACHANDRA REDDY",
+      "data_margin": "6095",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Puthalapattu (SC)",
+      "data_const_number": "173",
+      "data_leading_candidate": "K MURALI MOHAN",
+      "data_margin": "15634",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Puttaparthi",
+      "data_const_number": "159",
+      "data_leading_candidate": "PALLE SINDHURA REDDY",
+      "data_margin": "8760",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Rajahmundry City",
+      "data_const_number": "50",
+      "data_leading_candidate": "ADIREDDY SRINIVAS",
+      "data_margin": "71404",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Rajahmundry Rural",
+      "data_const_number": "51",
+      "data_leading_candidate": "GORANTLA BUTCHAIAH CHOUDARY",
+      "data_margin": "64090",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Rajam",
+      "data_const_number": "9",
+      "data_leading_candidate": "KONDRU MURALI MOHAN",
+      "data_margin": "20722",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Rajampet",
+      "data_const_number": "125",
+      "data_leading_candidate": "AKEPATI AMARNATH REDDY",
+      "data_margin": "7016",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Rajanagaram",
+      "data_const_number": "49",
+      "data_leading_candidate": "BATHULA BALARAMAKRISHNA S/O GANGARAO",
+      "data_margin": "34049",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Ramachandrapuram",
+      "data_const_number": "42",
+      "data_leading_candidate": "VASAMSETTI. SUBASH",
+      "data_margin": "26291",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Rampachodavaram",
+      "data_const_number": "53",
+      "data_leading_candidate": "MIRIYALA SIRISHA DEVI",
+      "data_margin": "9139",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Raptadu",
+      "data_const_number": "155",
+      "data_leading_candidate": "PARITALA SUNITHAMMA",
+      "data_margin": "23329",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Rayachoti",
+      "data_const_number": "128",
+      "data_leading_candidate": "MANDIPALLI RAMPRASAD REDDY",
+      "data_margin": "2495",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Rayadurg",
+      "data_const_number": "148",
+      "data_leading_candidate": "KALAVA SRINIVASULU",
+      "data_margin": "41659",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Razole",
+      "data_const_number": "45",
+      "data_leading_candidate": "DEVA VARAPRASAD",
+      "data_margin": "39011",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Repalle",
+      "data_const_number": "90",
+      "data_leading_candidate": "ANAGANI SATYA PRASAD",
+      "data_margin": "39947",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Salur",
+      "data_const_number": "13",
+      "data_leading_candidate": "GUMMIDI SANDHYARANI",
+      "data_margin": "13733",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Santhanuthalapadu (SC)",
+      "data_const_number": "107",
+      "data_leading_candidate": "VIJAY KUMAR B.N",
+      "data_margin": "30385",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Sarvepalli",
+      "data_const_number": "119",
+      "data_leading_candidate": "CHANDRA MOHAN REDDY SOMIREDDY",
+      "data_margin": "16288",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Sattenapalle",
+      "data_const_number": "98",
+      "data_leading_candidate": "KANNA LAKSHMINARAYANA",
+      "data_margin": "27836",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Satyavedu",
+      "data_const_number": "169",
+      "data_leading_candidate": "KONETI ADIMULAM",
+      "data_margin": "3739",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Singanamala (SC)",
+      "data_const_number": "152",
+      "data_leading_candidate": "BANDARU SRAVANI SREE",
+      "data_margin": "8788",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Srikakulam",
+      "data_const_number": "5",
+      "data_leading_candidate": "GONDU SHANKAR",
+      "data_margin": "52521",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Srikalahasti",
+      "data_const_number": "168",
+      "data_leading_candidate": "BOJJALA VENKATA SUDHIR REDDY",
+      "data_margin": "43304",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Srisailam",
+      "data_const_number": "135",
+      "data_leading_candidate": "BUDDA RAJASEKHARA REDDY",
+      "data_margin": "6385",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Srungavarapukota",
+      "data_const_number": "19",
+      "data_leading_candidate": "KOLLA LALITHA KUMARI",
+      "data_margin": "38790",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Sullurpeta",
+      "data_const_number": "121",
+      "data_leading_candidate": "NELAVALA VIJAYASREE",
+      "data_margin": "29115",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Tadepalligudem",
+      "data_const_number": "62",
+      "data_leading_candidate": "BOLISETTY SRINIVAS",
+      "data_margin": "62492",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Tadikonda (SC)",
+      "data_const_number": "86",
+      "data_leading_candidate": "TENALI SRAVAN KUMAR",
+      "data_margin": "39606",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Tadpatri",
+      "data_const_number": "151",
+      "data_leading_candidate": "ASHMIT REDDY J.C",
+      "data_margin": "27731",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Tanuku",
+      "data_const_number": "61",
+      "data_leading_candidate": "ARIMILLI RADHA KRISHNA",
+      "data_margin": "72121",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Tekkali",
+      "data_const_number": "3",
+      "data_leading_candidate": "ATCHANNAIDU KINJARAPU",
+      "data_margin": "34435",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Tenali",
+      "data_const_number": "91",
+      "data_leading_candidate": "NADENDLA MANOHAR",
+      "data_margin": "48112",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Thamballapalle",
+      "data_const_number": "162",
+      "data_leading_candidate": "P. DWARAKANATHA REDDY",
+      "data_margin": "10103",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    },
+    {
+      "data_constituency": "Tirupati",
+      "data_const_number": "167",
+      "data_leading_candidate": "ARANII SRENEVASULU",
+      "data_margin": "61956",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Tiruvuru (SC)",
+      "data_const_number": "69",
+      "data_leading_candidate": "KOLIKAPUDI SRINIVASA RAO",
+      "data_margin": "21874",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Tuni",
+      "data_const_number": "35",
+      "data_leading_candidate": "DIVYA YANAMALA",
+      "data_margin": "15177",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Udayagiri",
+      "data_const_number": "123",
+      "data_leading_candidate": "KAKARLA SURESH",
+      "data_margin": "9621",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Undi",
+      "data_const_number": "60",
+      "data_leading_candidate": "KANUMURU RAGHU RAMA KRISHNA RAJU (R R R)",
+      "data_margin": "56777",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Ungutur",
+      "data_const_number": "63",
+      "data_leading_candidate": "DHARMARAJU PATSAMATLA",
+      "data_margin": "44945",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Uravakonda",
+      "data_const_number": "149",
+      "data_leading_candidate": "PAYYAVULA KESHAV",
+      "data_margin": "21704",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Vemuru (SC)",
+      "data_const_number": "89",
+      "data_leading_candidate": "ANANDA BABU NAKKA",
+      "data_margin": "22021",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Venkatagiri",
+      "data_const_number": "122",
+      "data_leading_candidate": "KURUGONDLA RAMAKRISHNA",
+      "data_margin": "16294",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Vijayawada Central",
+      "data_const_number": "80",
+      "data_leading_candidate": "BONDA UMAMAHESWARARAO",
+      "data_margin": "68886",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Vijayawada East",
+      "data_const_number": "81",
+      "data_leading_candidate": "GADDE RAMA MOHAN",
+      "data_margin": "49640",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Vijayawada West",
+      "data_const_number": "79",
+      "data_leading_candidate": "YALAMANCHILI SATYANARAYANA CHOWDARY (SUJANA CHOWDARY)",
+      "data_margin": "47032",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Vinukonda",
+      "data_const_number": "99",
+      "data_leading_candidate": "GONUGUNTLA VENKATA SIVA SITA RAMA ANZANNEYLLU",
+      "data_margin": "30267",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Visakhapatnam East",
+      "data_const_number": "21",
+      "data_leading_candidate": "RAMAKRISHNA BABU VELAGAPUDI",
+      "data_margin": "70877",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Visakhapatnam North",
+      "data_const_number": "23",
+      "data_leading_candidate": "VISHNU KUMAR RAJU PENMETSA",
+      "data_margin": "47534",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Visakhapatnam South",
+      "data_const_number": "22",
+      "data_leading_candidate": "CH.VAMSI KRISHNA SRINIVAS",
+      "data_margin": "64594",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Visakhapatnam West",
+      "data_const_number": "24",
+      "data_leading_candidate": "P.G.V.R.NAIDU(GANABABU)",
+      "data_margin": "35184",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Vizianagaram",
+      "data_const_number": "18",
+      "data_leading_candidate": "ADITI VIJAYALAKSHMI GAJAPATHI RAJU PUSAPATI",
+      "data_margin": "60609",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Yelamanchili",
+      "data_const_number": "32",
+      "data_leading_candidate": "SUNDARAPU VIJAY KUMAR",
+      "data_margin": "48956",
+      "data_leading_party": "Janasena Party"
+    },
+    {
+      "data_constituency": "Yemmiganur",
+      "data_const_number": "144",
+      "data_leading_candidate": "B. JAYANAGESWARA REDDY",
+      "data_margin": "15837",
+      "data_leading_party": "Telugu Desam"
+    },
+    {
+      "data_constituency": "Yerragondapalem (SC)",
+      "data_const_number": "102",
+      "data_leading_candidate": "CHANDRA SEKHAR TATIPARTHI",
+      "data_margin": "5200",
+      "data_leading_party": "Yuvajana Sramika Rythu Congress Party"
+    }
+  ],
+  "Odisha": [
+    {
+      "data_constituency": "Anandapur",
+      "data_const_number": "22",
+      "data_leading_candidate": "ABHIMANYU SETHI",
+      "data_margin": "10966",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Angul",
+      "data_const_number": "61",
+      "data_leading_candidate": "PRATAP CHANDRA PRADHAN",
+      "data_margin": "17433",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Aska",
+      "data_const_number": "128",
+      "data_leading_candidate": "SAROJ KUMAR PADHI",
+      "data_margin": "8059",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Athagarh",
+      "data_const_number": "89",
+      "data_leading_candidate": "RANENDRA PRATAP SWAIN",
+      "data_margin": "3584",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Athamallik",
+      "data_const_number": "63",
+      "data_leading_candidate": "NALINI KANTA PRADHAN",
+      "data_margin": "16153",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Attabira",
+      "data_const_number": "4",
+      "data_leading_candidate": "NIHAR RANJAN MAHANAND",
+      "data_margin": "28910",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Aul",
+      "data_const_number": "98",
+      "data_leading_candidate": "PRATAP KESHARI DEB",
+      "data_margin": "19628",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Badasahi",
+      "data_const_number": "32",
+      "data_leading_candidate": "SANATAN BIJULI",
+      "data_margin": "37387",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Balasore",
+      "data_const_number": "38",
+      "data_leading_candidate": "MANAS KUMAR DUTTA",
+      "data_margin": "28626",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Baliguda",
+      "data_const_number": "82",
+      "data_leading_candidate": "CHAKRAMANI KANHAR",
+      "data_margin": "1671",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Balikuda-Erasama",
+      "data_const_number": "103",
+      "data_leading_candidate": "SARADA PRASANNA JENA",
+      "data_margin": "25959",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Bangriposi",
+      "data_const_number": "29",
+      "data_leading_candidate": "SANJALI MURMU",
+      "data_margin": "34476",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Banki",
+      "data_const_number": "88",
+      "data_leading_candidate": "DEVI RANJAN TRIPATHY",
+      "data_margin": "17026",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Barabati-Cuttack",
+      "data_const_number": "90",
+      "data_leading_candidate": "SOFIA FIRDOUS",
+      "data_margin": "8001",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Barachana",
+      "data_const_number": "50",
+      "data_leading_candidate": "AMAR KUMAR NAYAK",
+      "data_margin": "6310",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Baramba",
+      "data_const_number": "87",
+      "data_leading_candidate": "BIJAYA KUMAR DALABEHERA",
+      "data_margin": "23479",
+      "data_leading_party": "Independent"
+    },
+    {
+      "data_constituency": "Bargarh",
+      "data_const_number": "3",
+      "data_leading_candidate": "ASHWINI KUMAR SARANGI",
+      "data_margin": "4772",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bari",
+      "data_const_number": "49",
+      "data_leading_candidate": "BISWA RANJAN MALLICK",
+      "data_margin": "51465",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Baripada",
+      "data_const_number": "33",
+      "data_leading_candidate": "PRAKASH SOREN",
+      "data_margin": "29385",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Basta",
+      "data_const_number": "37",
+      "data_leading_candidate": "SUBASINI JENA",
+      "data_margin": "20377",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Basudevpur",
+      "data_const_number": "45",
+      "data_leading_candidate": "ASHOK KUMAR DAS",
+      "data_margin": "631",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Begunia",
+      "data_const_number": "116",
+      "data_leading_candidate": "PRADIP KUMAR SAHU S/O-LAXMIDHAR SAHU",
+      "data_margin": "47814",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Berhampur",
+      "data_const_number": "133",
+      "data_leading_candidate": "K. ANIL KUMAR",
+      "data_margin": "18709",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bhadrak",
+      "data_const_number": "44",
+      "data_leading_candidate": "SITANSU SEKHAR MOHAPATRA",
+      "data_margin": "16068",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bhandaripokhari",
+      "data_const_number": "43",
+      "data_leading_candidate": "SANJIB KUMAR MALLICK",
+      "data_margin": "1551",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Bhanjanagar",
+      "data_const_number": "123",
+      "data_leading_candidate": "PRADYUMNA KUMAR NAYAK",
+      "data_margin": "16324",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bhatli",
+      "data_const_number": "5",
+      "data_leading_candidate": "IRASIS ACHARYA",
+      "data_margin": "27892",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bhawanipatna",
+      "data_const_number": "80",
+      "data_leading_candidate": "SAGAR CHARAN DAS",
+      "data_margin": "13741",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Bhograi",
+      "data_const_number": "36",
+      "data_leading_candidate": "GOUTAM BUDDHA DAS",
+      "data_margin": "6564",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Bhubaneswar Central",
+      "data_const_number": "112",
+      "data_leading_candidate": "ANANTA NARAYAN JENA",
+      "data_margin": "37",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Bhubaneswar North",
+      "data_const_number": "113",
+      "data_leading_candidate": "SUSANT KUMAR ROUT",
+      "data_margin": "11343",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Bijepur",
+      "data_const_number": "2",
+      "data_leading_candidate": "SANAT KUMAR GARTIA",
+      "data_margin": "10066",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Binjharpur",
+      "data_const_number": "48",
+      "data_leading_candidate": "PRAMILA MALLIK",
+      "data_margin": "2856",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Biramitrapur",
+      "data_const_number": "10",
+      "data_leading_candidate": "ROHIT JOSEPH TIRKEY",
+      "data_margin": "6884",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Birmaharajpur",
+      "data_const_number": "64",
+      "data_leading_candidate": "RAGHUNATH JAGADALA",
+      "data_margin": "21946",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bissam Cuttack",
+      "data_const_number": "139",
+      "data_leading_candidate": "NILAMADHAB HIKAKA",
+      "data_margin": "9403",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Bolangir",
+      "data_const_number": "68",
+      "data_leading_candidate": "KALIKESH NARAYAN SINGH DEO",
+      "data_margin": "13409",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Bonai",
+      "data_const_number": "14",
+      "data_leading_candidate": "LAXMAN MUNDA",
+      "data_margin": "23439",
+      "data_leading_party": "Communist Party of India (Marxist)"
+    },
+    {
+      "data_constituency": "Boudh",
+      "data_const_number": "86",
+      "data_leading_candidate": "SAROJ KUMAR PRADHAN",
+      "data_margin": "2765",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Brahmagiri",
+      "data_const_number": "108",
+      "data_leading_candidate": "UPASNA MOHAPATRA",
+      "data_margin": "9830",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Brajarajnagar",
+      "data_const_number": "6",
+      "data_leading_candidate": "SURESH PUJARI",
+      "data_margin": "26789",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Champua",
+      "data_const_number": "25",
+      "data_leading_candidate": "SANATAN MAHAKUD",
+      "data_margin": "39994",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Chandabali",
+      "data_const_number": "47",
+      "data_leading_candidate": "BYOMAKESH RAY",
+      "data_margin": "1916",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Chhatrapur",
+      "data_const_number": "127",
+      "data_leading_candidate": "KRUSHNA CHANDRA NAYAK",
+      "data_margin": "11438",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Chhendipada",
+      "data_const_number": "62",
+      "data_leading_candidate": "AGASTI BEHERA",
+      "data_margin": "15063",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Chikiti",
+      "data_const_number": "135",
+      "data_leading_candidate": "MANORANJAN DYAN SAMANTARA",
+      "data_margin": "6522",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Chilika",
+      "data_const_number": "118",
+      "data_leading_candidate": "PRITHIVIRAJ HARICHANDAN",
+      "data_margin": "4566",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Chitrakonda",
+      "data_const_number": "147",
+      "data_leading_candidate": "MANGU KHILLA",
+      "data_margin": "9159",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Choudwar-Cuttack",
+      "data_const_number": "91",
+      "data_leading_candidate": "SOUVIC BISWAL",
+      "data_margin": "17816",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Cuttack Sadar",
+      "data_const_number": "93",
+      "data_leading_candidate": "PRAKASH CHANDRA SETHI",
+      "data_margin": "3809",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Dabugam",
+      "data_const_number": "76",
+      "data_leading_candidate": "MANOHAR RANDHARI",
+      "data_margin": "21455",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Daspalla",
+      "data_const_number": "121",
+      "data_leading_candidate": "RAMESH CHANDRA BEHERA",
+      "data_margin": "6296",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Deogarh",
+      "data_const_number": "19",
+      "data_leading_candidate": "ROMANCHA RANJAN BISWAL",
+      "data_margin": "15792",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Dhamnagar",
+      "data_const_number": "46",
+      "data_leading_candidate": "SURYABANSHI SURAJ STHITAPRAJNA",
+      "data_margin": "8095",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Dharamgarh",
+      "data_const_number": "79",
+      "data_leading_candidate": "SUDHIR RANJAN PATTJOSHI",
+      "data_margin": "18927",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Dharmasala",
+      "data_const_number": "51",
+      "data_leading_candidate": "HIMANSHU SEKHAR SAHOO F-LATE RAMESH CHANDRA SAHOO",
+      "data_margin": "4150",
+      "data_leading_party": "Independent"
+    },
+    {
+      "data_constituency": "Dhenkanal",
+      "data_const_number": "55",
+      "data_leading_candidate": "KRUSHNA CHANDRA PATRA",
+      "data_margin": "20439",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Digapahandi",
+      "data_const_number": "134",
+      "data_leading_candidate": "SIDHANT MOHAPATRA",
+      "data_margin": "16847",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Ekamra-Bhubaneswar",
+      "data_const_number": "114",
+      "data_leading_candidate": "BABU SINGH",
+      "data_margin": "5023",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "G. Udayagiri",
+      "data_const_number": "83",
+      "data_leading_candidate": "PRAFULLA CHANDRA PRADHAN",
+      "data_margin": "7857",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Ghasipura",
+      "data_const_number": "21",
+      "data_leading_candidate": "BADRI NARAYAN PATRA",
+      "data_margin": "13811",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Gopalpur",
+      "data_const_number": "132",
+      "data_leading_candidate": "BIBHUTI BHUSHAN JENA",
+      "data_margin": "9062",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Gunupur",
+      "data_const_number": "138",
+      "data_leading_candidate": "SATYAJEET GOMANGO",
+      "data_margin": "29885",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Hindol",
+      "data_const_number": "56",
+      "data_leading_candidate": "SIMARANI NAYAK",
+      "data_margin": "11827",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Hinjili",
+      "data_const_number": "131",
+      "data_leading_candidate": "NAVEEN PATNAIK",
+      "data_margin": "4636",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Jagatsinghpur",
+      "data_const_number": "104",
+      "data_leading_candidate": "AMARENDRA DAS",
+      "data_margin": "22138",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Jajpur",
+      "data_const_number": "52",
+      "data_leading_candidate": "SUJATA SAHU",
+      "data_margin": "2564",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Jaleswar",
+      "data_const_number": "35",
+      "data_leading_candidate": "ASWINI KUMAR PATRA",
+      "data_margin": "319",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Jashipur",
+      "data_const_number": "26",
+      "data_leading_candidate": "GANESH RAM SINGKHUNTIA",
+      "data_margin": "34667",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Jatani",
+      "data_const_number": "115",
+      "data_leading_candidate": "BIBHUTI BHUSAN BALABANTARAY",
+      "data_margin": "25221",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Jayadev",
+      "data_const_number": "111",
+      "data_leading_candidate": "NABA KISHOR MALLICK",
+      "data_margin": "21473",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Jeypore",
+      "data_const_number": "143",
+      "data_leading_candidate": "TARA PRSADA BAHINIPATI",
+      "data_margin": "13111",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Jharigam",
+      "data_const_number": "74",
+      "data_leading_candidate": "NARSING BHATRA",
+      "data_margin": "3278",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Jharsuguda",
+      "data_const_number": "7",
+      "data_leading_candidate": "TANKADHAR TRIPATHY",
+      "data_margin": "1333",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Junagarh",
+      "data_const_number": "78",
+      "data_leading_candidate": "DIBYA SHANKAR MISHRA",
+      "data_margin": "1338",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Kabisuryanagar",
+      "data_const_number": "125",
+      "data_leading_candidate": "PRATAP CHANDRA NAYAK",
+      "data_margin": "30173",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kakatpur",
+      "data_const_number": "105",
+      "data_leading_candidate": "TUSHARKANTI BEHERA",
+      "data_margin": "23151",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Kamakhyanagar",
+      "data_const_number": "57",
+      "data_leading_candidate": "SATRUGHAN JENA",
+      "data_margin": "4662",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kantabanji",
+      "data_const_number": "70",
+      "data_leading_candidate": "LAXMAN BAG",
+      "data_margin": "16344",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kantamal",
+      "data_const_number": "85",
+      "data_leading_candidate": "KANHAI CHARAN DANGA",
+      "data_margin": "7149",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Karanjia",
+      "data_const_number": "30",
+      "data_leading_candidate": "PADMA CHARAN HAIBURU",
+      "data_margin": "29499",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kendrapara",
+      "data_const_number": "97",
+      "data_leading_candidate": "GANESWAR BEHERA",
+      "data_margin": "35418",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Keonjhar",
+      "data_const_number": "24",
+      "data_leading_candidate": "MOHAN CHARAN MAJHI",
+      "data_margin": "11577",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Khalikote",
+      "data_const_number": "126",
+      "data_leading_candidate": "PURNA CHANDRA SETHY",
+      "data_margin": "23057",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Khandapada",
+      "data_const_number": "120",
+      "data_leading_candidate": "DUSMANTA KUMAR SWAIN",
+      "data_margin": "7343",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Khariar",
+      "data_const_number": "72",
+      "data_leading_candidate": "ADHIRAJ MOHAN PANIGRAHI",
+      "data_margin": "9618",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Khurda",
+      "data_const_number": "117",
+      "data_leading_candidate": "PRASANTA KUMAR JAGADEV",
+      "data_margin": "8598",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Koraput",
+      "data_const_number": "144",
+      "data_leading_candidate": "RAGHURAM MACHHA",
+      "data_margin": "2524",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Korei",
+      "data_const_number": "53",
+      "data_leading_candidate": "AKASH DASNAYAK",
+      "data_margin": "5646",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kotpad",
+      "data_const_number": "142",
+      "data_leading_candidate": "RUPU BHATRA",
+      "data_margin": "26264",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kuchinda",
+      "data_const_number": "15",
+      "data_leading_candidate": "RABI NARAYAN NAIK",
+      "data_margin": "32220",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Lakshmipur",
+      "data_const_number": "141",
+      "data_leading_candidate": "PABITRA SAUNTA",
+      "data_margin": "21262",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Lanjigarh",
+      "data_const_number": "77",
+      "data_leading_candidate": "PRADIP KUMAR DISHARI",
+      "data_margin": "6501",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Loisingha",
+      "data_const_number": "66",
+      "data_leading_candidate": "MUKESH MAHALING",
+      "data_margin": "18190",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Mahakalapada",
+      "data_const_number": "100",
+      "data_leading_candidate": "DURGA PRASAN NAYAK",
+      "data_margin": "33526",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Mahanga",
+      "data_const_number": "95",
+      "data_leading_candidate": "SARADA PRASAD PADHAN",
+      "data_margin": "7423",
+      "data_leading_party": "Independent"
+    },
+    {
+      "data_constituency": "Malkangiri",
+      "data_const_number": "146",
+      "data_leading_candidate": "NARASINGA MADKAMI",
+      "data_margin": "14890",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Mohana",
+      "data_const_number": "136",
+      "data_leading_candidate": "DASARATHI GAMANGO",
+      "data_margin": "4059",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Morada",
+      "data_const_number": "34",
+      "data_leading_candidate": "DR. KRUSHNA CHANDRA MAHAPATRA",
+      "data_margin": "33270",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Nabarangpur",
+      "data_const_number": "75",
+      "data_leading_candidate": "GOURI SHANKAR MAJHI",
+      "data_margin": "25094",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Narla",
+      "data_const_number": "81",
+      "data_leading_candidate": "MANORAMA MOHANTY",
+      "data_margin": "5205",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Nayagarh",
+      "data_const_number": "122",
+      "data_leading_candidate": "ARUNA KUMAR SAHOO",
+      "data_margin": "439",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Niali",
+      "data_const_number": "92",
+      "data_leading_candidate": "CHHABI MALIK",
+      "data_margin": "1452",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Nilgiri",
+      "data_const_number": "40",
+      "data_leading_candidate": "SANTOSH KHATUA",
+      "data_margin": "19839",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Nimapara",
+      "data_const_number": "106",
+      "data_leading_candidate": "PRAVATI PARIDA",
+      "data_margin": "4588",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Nuapada",
+      "data_const_number": "71",
+      "data_leading_candidate": "RAJENDRA DHOLAKIA",
+      "data_margin": "10881",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Padampur",
+      "data_const_number": "1",
+      "data_leading_candidate": "BARSHA SINGH BARIHA",
+      "data_margin": "10993",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Pallahara",
+      "data_const_number": "59",
+      "data_leading_candidate": "ASHOK MOHANTY",
+      "data_margin": "7563",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Paradeep",
+      "data_const_number": "101",
+      "data_leading_candidate": "SAMPAD CHANDRA SWAIN",
+      "data_margin": "15787",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Paralakhemundi",
+      "data_const_number": "137",
+      "data_leading_candidate": "RUPESH KUMAR PANIGRAHI",
+      "data_margin": "3998",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Parjanga",
+      "data_const_number": "58",
+      "data_leading_candidate": "BIBHUTI BHUSAN PRADHAN",
+      "data_margin": "32162",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Patkura",
+      "data_const_number": "96",
+      "data_leading_candidate": "ARVIND MOHAPATRA",
+      "data_margin": "13822",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Patna",
+      "data_const_number": "23",
+      "data_leading_candidate": "AKHILA CHANDRA NAIK",
+      "data_margin": "37979",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Patnagarh",
+      "data_const_number": "67",
+      "data_leading_candidate": "KANAK VARDHAN SINGH DEO",
+      "data_margin": "1357",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Phulbani",
+      "data_const_number": "84",
+      "data_leading_candidate": "UMA CHARAN MALLICK",
+      "data_margin": "2858",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Pipili",
+      "data_const_number": "110",
+      "data_leading_candidate": "ASHRIT PATTANAYAK",
+      "data_margin": "15162",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Polasara",
+      "data_const_number": "124",
+      "data_leading_candidate": "GOKULANANDA MALLIK",
+      "data_margin": "20946",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Pottangi",
+      "data_const_number": "145",
+      "data_leading_candidate": "RAMA CHANDRA KADAM",
+      "data_margin": "1919",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Puri",
+      "data_const_number": "107",
+      "data_leading_candidate": "SUNIL KUMAR MOHANTY",
+      "data_margin": "5178",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Raghunathpali",
+      "data_const_number": "11",
+      "data_leading_candidate": "DURGA CHARAN TANTI",
+      "data_margin": "5774",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Rairakhol",
+      "data_const_number": "18",
+      "data_leading_candidate": "PRASANNA ACHARYA",
+      "data_margin": "4960",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Rairangpur",
+      "data_const_number": "28",
+      "data_leading_candidate": "JALEN NAIK",
+      "data_margin": "7693",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Rajanagar",
+      "data_const_number": "99",
+      "data_leading_candidate": "DHRUBA CHARAN SAHOO",
+      "data_margin": "18241",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Rajgangpur",
+      "data_const_number": "13",
+      "data_leading_candidate": "C.S. RAAZEN EKKA",
+      "data_margin": "10184",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Ranpur",
+      "data_const_number": "119",
+      "data_leading_candidate": "SURAMA PADHY",
+      "data_margin": "15544",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Rayagada",
+      "data_const_number": "140",
+      "data_leading_candidate": "KADRAKA APPALA SWAMY",
+      "data_margin": "29186",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Remuna",
+      "data_const_number": "39",
+      "data_leading_candidate": "GOBINDA CHANDRA DAS",
+      "data_margin": "24168",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Rengali",
+      "data_const_number": "16",
+      "data_leading_candidate": "SUDARSHAN HARIPAL",
+      "data_margin": "3212",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Rourkela",
+      "data_const_number": "12",
+      "data_leading_candidate": "SARADA PRASAD NAYAK",
+      "data_margin": "3552",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Salipur",
+      "data_const_number": "94",
+      "data_leading_candidate": "PRASANTA BEHERA",
+      "data_margin": "7594",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Sambalpur",
+      "data_const_number": "17",
+      "data_leading_candidate": "JAYANARAYAN MISHRA",
+      "data_margin": "4105",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Sanakhemundi",
+      "data_const_number": "130",
+      "data_leading_candidate": "RAMESH CHANDRA JENA",
+      "data_margin": "10662",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Saraskana",
+      "data_const_number": "27",
+      "data_leading_candidate": "BHADAV HANSDAH",
+      "data_margin": "13652",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Satyabadi",
+      "data_const_number": "109",
+      "data_leading_candidate": "OM PRAKASH MISHRA",
+      "data_margin": "17708",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Simulia",
+      "data_const_number": "42",
+      "data_leading_candidate": "PADMA LOCHAN PANDA",
+      "data_margin": "13183",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Sonepur",
+      "data_const_number": "65",
+      "data_leading_candidate": "NIRANJAN PUJARI",
+      "data_margin": "15239",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Soro",
+      "data_const_number": "41",
+      "data_leading_candidate": "MADHAB DHADA",
+      "data_margin": "802",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Sukinda",
+      "data_const_number": "54",
+      "data_leading_candidate": "PRADEEP BAL SAMANTA",
+      "data_margin": "9577",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Sundargarh",
+      "data_const_number": "9",
+      "data_leading_candidate": "JOGESH KUMAR SINGH",
+      "data_margin": "9122",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Surada",
+      "data_const_number": "129",
+      "data_leading_candidate": "NILAMANI BISOYI",
+      "data_margin": "28224",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Talcher",
+      "data_const_number": "60",
+      "data_leading_candidate": "BRAJA KISHORE PRADHAN",
+      "data_margin": "32122",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Talsara",
+      "data_const_number": "8",
+      "data_leading_candidate": "BHABANI SHANKAR BHOI",
+      "data_margin": "17189",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Telkoi",
+      "data_const_number": "20",
+      "data_leading_candidate": "DR. FAKIR MOHAN NAIK",
+      "data_margin": "9439",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Tirtol",
+      "data_const_number": "102",
+      "data_leading_candidate": "RAMAKANTA BHOI",
+      "data_margin": "28495",
+      "data_leading_party": "Biju Janata Dal"
+    },
+    {
+      "data_constituency": "Titlagarh",
+      "data_const_number": "69",
+      "data_leading_candidate": "NABIN KUMAR JAIN",
+      "data_margin": "17399",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Udala",
+      "data_const_number": "31",
+      "data_leading_candidate": "BHASKAR MADHEI",
+      "data_margin": "6517",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Umerkote",
+      "data_const_number": "73",
+      "data_leading_candidate": "NITYANANDA GOND",
+      "data_margin": "10373",
+      "data_leading_party": "Bharatiya Janata Party"
+    }
+  ],
+  "Sikkim": [
+    {
+      "data_constituency": "ARITHANG",
+      "data_const_number": "26",
+      "data_leading_candidate": "ARUN KUMAR UPRETI",
+      "data_margin": "2729",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "BARFUNG",
+      "data_const_number": "9",
+      "data_leading_candidate": "RIKSHAL DORJEE BHUTIA",
+      "data_margin": "4346",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "CHUJACHEN",
+      "data_const_number": "20",
+      "data_leading_candidate": "PURAN KR. GURUNG",
+      "data_margin": "3334",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "DARAMDIN",
+      "data_const_number": "6",
+      "data_leading_candidate": "MINGMA NORBU SHERPA",
+      "data_margin": "5975",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "DJONGU",
+      "data_const_number": "30",
+      "data_leading_candidate": "PINTSO NAMGYAL LEPCHA",
+      "data_margin": "5007",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "GANGTOK",
+      "data_const_number": "27",
+      "data_leading_candidate": "DELAY NAMGYAL BARFUNGPA",
+      "data_margin": "2692",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "GNATHANG-MACHONG",
+      "data_const_number": "21",
+      "data_leading_candidate": "PAMIN LEPCHA",
+      "data_margin": "3807",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "GYALSHING-BARNYAK",
+      "data_const_number": "4",
+      "data_leading_candidate": "LOK NATH SHARMA",
+      "data_margin": "963",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "KABI LUNGCHUK",
+      "data_const_number": "29",
+      "data_leading_candidate": "THENLAY TSHERING BHUTIA",
+      "data_margin": "1693",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "KHAMDONG-SINGTAM",
+      "data_const_number": "17",
+      "data_leading_candidate": "NAR BAHADUR DAHAL",
+      "data_margin": "1739",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "LACHEN MANGAN",
+      "data_const_number": "31",
+      "data_leading_candidate": "SAMDUP LEPCHA",
+      "data_margin": "851",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "MANEYBONG-DENTAM",
+      "data_const_number": "3",
+      "data_leading_candidate": "SUDESH KUMAR SUBBA",
+      "data_margin": "6039",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "MARTAM-RUMTEK",
+      "data_const_number": "24",
+      "data_leading_candidate": "SONAM TSH. VENCHUNGPA",
+      "data_margin": "2762",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "MELLI",
+      "data_const_number": "12",
+      "data_leading_candidate": "NAR BAHADUR PRADHAN",
+      "data_margin": "4283",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "NAMCHEYBUNG",
+      "data_const_number": "22",
+      "data_leading_candidate": "RAJU BASNET",
+      "data_margin": "2256",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "NAMCHI-SINGHITHANG",
+      "data_const_number": "11",
+      "data_leading_candidate": "KRISHNA KUMARI RAI",
+      "data_margin": "5302",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "NAMTHANG-RATEYPANI",
+      "data_const_number": "13",
+      "data_leading_candidate": "SANJEET KHAREL",
+      "data_margin": "5605",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "POKLOK-KAMRANG",
+      "data_const_number": "10",
+      "data_leading_candidate": "BHOJ RAJ RAI",
+      "data_margin": "3063",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "RANGANG-YANGANG",
+      "data_const_number": "15",
+      "data_leading_candidate": "RAJ KUMARI THAPA",
+      "data_margin": "1201",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "RHENOCK",
+      "data_const_number": "19",
+      "data_leading_candidate": "P S TAMANG",
+      "data_margin": "7044",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "RINCHENPONG",
+      "data_const_number": "5",
+      "data_leading_candidate": "ERUNG TENZING LEPCHA",
+      "data_margin": "6400",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "SALGHARI-ZOOM",
+      "data_const_number": "8",
+      "data_leading_candidate": "MADAN CINTURY",
+      "data_margin": "2712",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "SANGHA",
+      "data_const_number": "32",
+      "data_leading_candidate": "SONAM LAMA",
+      "data_margin": "865",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "SHYARI",
+      "data_const_number": "23",
+      "data_leading_candidate": "TENZING NORBU LAMTHA",
+      "data_margin": "1314",
+      "data_leading_party": "Sikkim Democratic Front"
+    },
+    {
+      "data_constituency": "SORENG-CHAKUNG",
+      "data_const_number": "7",
+      "data_leading_candidate": "P S TAMANG",
+      "data_margin": "7396",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "TEMI-NAMPHING",
+      "data_const_number": "14",
+      "data_leading_candidate": "BEDU SINGH PANTH",
+      "data_margin": "3558",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "TUMEN-LINGI",
+      "data_const_number": "16",
+      "data_leading_candidate": "SAMDUP TSHERING BHUTIA",
+      "data_margin": "4088",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "UPPER BURTUK",
+      "data_const_number": "28",
+      "data_leading_candidate": "KALA RAI",
+      "data_margin": "2568",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "UPPER TADONG",
+      "data_const_number": "25",
+      "data_leading_candidate": "G.T. DHUNGEL",
+      "data_margin": "4089",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "WEST PENDAM",
+      "data_const_number": "18",
+      "data_leading_candidate": "LALL BAHADUR DAS",
+      "data_margin": "1952",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "YANGTHANG",
+      "data_const_number": "2",
+      "data_leading_candidate": "BHIM HANG LIMBOO",
+      "data_margin": "2556",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    },
+    {
+      "data_constituency": "YUKSOM TASHIDING",
+      "data_const_number": "1",
+      "data_leading_candidate": "TSHERING THENDUP BHUTIA",
+      "data_margin": "4812",
+      "data_leading_party": "Sikkim Krantikari Morcha"
+    }
+  ],
+  "Arunachal Prdesh": [
+    {
+      "data_constituency": "Along (East)",
+      "data_const_number": "31",
+      "data_leading_candidate": "KENTO JINI",
+      "data_margin": "3158",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Along (West)",
+      "data_const_number": "30",
+      "data_leading_candidate": "TOPIN ETE",
+      "data_margin": "1951",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Anini",
+      "data_const_number": "41",
+      "data_leading_candidate": "MOPI MIHU",
+      "data_margin": "1173",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bameng",
+      "data_const_number": "8",
+      "data_leading_candidate": "KUMAR WAII",
+      "data_margin": "635",
+      "data_leading_party": "Indian National Congress"
+    },
+    {
+      "data_constituency": "Basar",
+      "data_const_number": "29",
+      "data_leading_candidate": "NYABI JINI DIRCHI",
+      "data_margin": "1791",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bomdila",
+      "data_const_number": "7",
+      "data_leading_candidate": "DONGRU SIONGJU",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Bordumsa-Diyun",
+      "data_const_number": "49",
+      "data_leading_candidate": "NIKH KAMIN",
+      "data_margin": "1352",
+      "data_leading_party": "Nationalist Congress Party"
+    },
+    {
+      "data_constituency": "Borduria-Bogapani",
+      "data_const_number": "57",
+      "data_leading_candidate": "WANGLIN LOWANGDONG",
+      "data_margin": "1452",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Changlang(North)",
+      "data_const_number": "53",
+      "data_leading_candidate": "TESAM PONGTE",
+      "data_margin": "2002",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Changlang(South)",
+      "data_const_number": "52",
+      "data_leading_candidate": "HAMJONG TANGHA",
+      "data_margin": "1482",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Chayangtajo",
+      "data_const_number": "9",
+      "data_leading_candidate": "HAYENG MANGFI",
+      "data_margin": "6685",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Chowkham",
+      "data_const_number": "46",
+      "data_leading_candidate": "CHOWNA MEIN",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Dambuk",
+      "data_const_number": "42",
+      "data_leading_candidate": "PUINNYO APUM",
+      "data_margin": "222",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Daporijo",
+      "data_const_number": "24",
+      "data_leading_candidate": "TANIYA SOKI",
+      "data_margin": "228",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Dirang",
+      "data_const_number": "4",
+      "data_leading_candidate": "PHURPA TSERING",
+      "data_margin": "1202",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Doimukh",
+      "data_const_number": "14",
+      "data_leading_candidate": "NABAM VIVEK",
+      "data_margin": "2530",
+      "data_leading_party": "People's Party of Arunachal"
+    },
+    {
+      "data_constituency": "Dumporijo",
+      "data_const_number": "26",
+      "data_leading_candidate": "RODE BUI",
+      "data_margin": "1591",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Hayuliang",
+      "data_const_number": "45",
+      "data_leading_candidate": "DASANGLU PUL",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Itanagar",
+      "data_const_number": "13",
+      "data_leading_candidate": "TECHI KASO",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kalaktang",
+      "data_const_number": "5",
+      "data_leading_candidate": "TSETEN CHOMBAY KEE",
+      "data_margin": "2869",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Kanubari",
+      "data_const_number": "58",
+      "data_leading_candidate": "GABRIEL DENWANG WANGSU",
+      "data_margin": "2059",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Khonsa (West)",
+      "data_const_number": "56",
+      "data_leading_candidate": "CHAKAT ABOH",
+      "data_margin": "804",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Khonsa(East)",
+      "data_const_number": "55",
+      "data_leading_candidate": "WANGLAM SAWIN",
+      "data_margin": "2216",
+      "data_leading_party": "Independent"
+    },
+    {
+      "data_constituency": "Koloriang",
+      "data_const_number": "21",
+      "data_leading_candidate": "PANI TARAM",
+      "data_margin": "10550",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Lekang",
+      "data_const_number": "48",
+      "data_leading_candidate": "LIKHA SONI",
+      "data_margin": "654",
+      "data_leading_party": "Nationalist Congress Party"
+    },
+    {
+      "data_constituency": "Likabali(ST)",
+      "data_const_number": "28",
+      "data_leading_candidate": "KARDO NYIGYOR",
+      "data_margin": "2605",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Liromoba",
+      "data_const_number": "27",
+      "data_leading_candidate": "PESI JILEN",
+      "data_margin": "1698",
+      "data_leading_party": "National People's Party"
+    },
+    {
+      "data_constituency": "Longding-Pumao",
+      "data_const_number": "59",
+      "data_leading_candidate": "THANGWANG WANGHAM",
+      "data_margin": "169",
+      "data_leading_party": "National People's Party"
+    },
+    {
+      "data_constituency": "Lumla",
+      "data_const_number": "1",
+      "data_leading_candidate": "TSERING LHAMU",
+      "data_margin": "1531",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Mariyang",
+      "data_const_number": "40",
+      "data_leading_candidate": "ONI PANYANG",
+      "data_margin": "673",
+      "data_leading_party": "National People's Party"
+    },
+    {
+      "data_constituency": "Mebo",
+      "data_const_number": "39",
+      "data_leading_candidate": "OKEN TAYENG",
+      "data_margin": "1017",
+      "data_leading_party": "People's Party of Arunachal"
+    },
+    {
+      "data_constituency": "Mechuka",
+      "data_const_number": "33",
+      "data_leading_candidate": "PASANG DORJEE SONA",
+      "data_margin": "2558",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Miao",
+      "data_const_number": "50",
+      "data_leading_candidate": "KAMLUNG MOSANG",
+      "data_margin": "3127",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Mukto",
+      "data_const_number": "3",
+      "data_leading_candidate": "PEMA KHANDU",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Nacho",
+      "data_const_number": "22",
+      "data_leading_candidate": "NAKAP NALO",
+      "data_margin": "1373",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Nampong",
+      "data_const_number": "51",
+      "data_leading_candidate": "LAISAM SIMAI",
+      "data_margin": "68",
+      "data_leading_party": "Independent"
+    },
+    {
+      "data_constituency": "Namsai",
+      "data_const_number": "47",
+      "data_leading_candidate": "CHAU ZINGNU NAMCHOOM",
+      "data_margin": "8556",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Namsang",
+      "data_const_number": "54",
+      "data_leading_candidate": "WANGKI LOWANG",
+      "data_margin": "56",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Nari Koyu(ST)",
+      "data_const_number": "36",
+      "data_leading_candidate": "TOJIR KADU",
+      "data_margin": "1649",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Nyapin",
+      "data_const_number": "19",
+      "data_leading_candidate": "TAI NIKIO",
+      "data_margin": "1182",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Pakke-Kessang",
+      "data_const_number": "12",
+      "data_leading_candidate": "BIYURAM WAHGE",
+      "data_margin": "813",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Palin",
+      "data_const_number": "18",
+      "data_leading_candidate": "BALO RAJA",
+      "data_margin": "5040",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Pangin",
+      "data_const_number": "35",
+      "data_leading_candidate": "OJING TASING",
+      "data_margin": "2594",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Pasighat(East)",
+      "data_const_number": "38",
+      "data_leading_candidate": "TAPI DARANG",
+      "data_margin": "321",
+      "data_leading_party": "National People's Party"
+    },
+    {
+      "data_constituency": "Pasighat(West)",
+      "data_const_number": "37",
+      "data_leading_candidate": "NINONG ERING",
+      "data_margin": "2871",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Pongchau-Wakka",
+      "data_const_number": "60",
+      "data_leading_candidate": "HONCHUN NGANDAM",
+      "data_margin": "4662",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Raga",
+      "data_const_number": "25",
+      "data_leading_candidate": "ROTOM TEBIN",
+      "data_margin": "2934",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Roing",
+      "data_const_number": "43",
+      "data_leading_candidate": "MUTCHU MITHI",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Rumgong",
+      "data_const_number": "32",
+      "data_leading_candidate": "TALEM TABOH",
+      "data_margin": "1182",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Sagalee",
+      "data_const_number": "15",
+      "data_leading_candidate": "RATU TECHI",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Seppa (East)",
+      "data_const_number": "10",
+      "data_leading_candidate": "EALING TALLANG",
+      "data_margin": "5600",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Seppa (West)",
+      "data_const_number": "11",
+      "data_leading_candidate": "MAMA NATUNG",
+      "data_margin": "1249",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Tali",
+      "data_const_number": "20",
+      "data_leading_candidate": "JIKKE TAKO",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Taliha",
+      "data_const_number": "23",
+      "data_leading_candidate": "NYATO DUKAM",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Tawang",
+      "data_const_number": "2",
+      "data_leading_candidate": "NAMGEY TSERING",
+      "data_margin": "996",
+      "data_leading_party": "National People's Party"
+    },
+    {
+      "data_constituency": "Tezu",
+      "data_const_number": "44",
+      "data_leading_candidate": "DR. MOHESH CHAI",
+      "data_margin": "2805",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Thrizino-Buragaon",
+      "data_const_number": "6",
+      "data_leading_candidate": "TENZIN NYIMA GLOW",
+      "data_margin": "400",
+      "data_leading_party": "Independent"
+    },
+    {
+      "data_constituency": "Tuting-Yingkiong",
+      "data_const_number": "34",
+      "data_leading_candidate": "ALO LIBANG",
+      "data_margin": "915",
+      "data_leading_party": "Bharatiya Janata Party"
+    },
+    {
+      "data_constituency": "Yachuli",
+      "data_const_number": "16",
+      "data_leading_candidate": "TOKO TATUNG",
+      "data_margin": "228",
+      "data_leading_party": "Nationalist Congress Party"
+    },
+    {
+      "data_constituency": "Ziro-Hapoli",
+      "data_const_number": "17",
+      "data_leading_candidate": "HAGE APPA",
+      "data_margin": "-",
+      "data_leading_party": "Bharatiya Janata Party"
+    }
+  ]
+}
